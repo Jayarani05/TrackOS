@@ -1,6 +1,8 @@
 ﻿package datastructures;
 
 import models.TimeSlot;
+import java.util.ArrayList;
+import java.util.List;
 
 public class IntervalTree {
     private Node root;
@@ -33,5 +35,31 @@ public class IntervalTree {
             node.maxEnd = slot.endTime;
         }
         return node;
+    }
+    
+    public List<TimeSlot> findOverlapping(TimeSlot slot) {
+        List<TimeSlot> results = new ArrayList<>();
+        findOverlaps(root, slot, results);
+        return results;
+    }
+    
+    private void findOverlaps(Node node, TimeSlot slot, List<TimeSlot> results) {
+        if (node == null) return;
+        
+        if (overlaps(node.slot, slot)) {
+            results.add(node.slot);
+        }
+        
+        if (node.left != null && node.left.maxEnd > slot.startTime) {
+            findOverlaps(node.left, slot, results);
+        }
+        
+        if (node.slot.startTime < slot.endTime) {
+            findOverlaps(node.right, slot, results);
+        }
+    }
+    
+    private boolean overlaps(TimeSlot a, TimeSlot b) {
+        return a.startTime < b.endTime && b.startTime < a.endTime;
     }
 }
