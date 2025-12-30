@@ -1,6 +1,7 @@
 ﻿package services;
 
 import models.TimeSlot;
+import models.SchedulingResult;
 
 public class SlotAllocator {
     private ConflictDetector detector;
@@ -9,11 +10,16 @@ public class SlotAllocator {
         this.detector = detector;
     }
     
-    public boolean allocate(TimeSlot slot) {
+    public SchedulingResult allocate(TimeSlot slot) {
+        long start = System.currentTimeMillis();
+        
         if (detector.hasConflict(slot)) {
-            return false;
+            long ms = System.currentTimeMillis() - start;
+            return SchedulingResult.fail("Conflict detected", ms);
         }
+        
         detector.register(slot);
-        return true;
+        long ms = System.currentTimeMillis() - start;
+        return SchedulingResult.ok(slot, ms);
     }
 }
