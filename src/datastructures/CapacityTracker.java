@@ -26,4 +26,12 @@ public class CapacityTracker {
         if (m == null) return 0;
         return m.getOrDefault(bucket, 0);
     }
+    
+    public boolean isNearFull(String trackId, long time) {
+        return getUsage(trackId, time) >= maxPerBucket * 0.8;
+    }
+    
+    public boolean isFull(String trackId, long time) {
+        return getUsage(trackId, time) >= maxPerBucket;
+    }
 }
