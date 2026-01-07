@@ -1,6 +1,8 @@
 ﻿package services;
 
 import datastructures.RailNetwork;
+import models.TimeSlot;
+import java.util.List;
 
 public class SchedulingEngine {
     private ConflictDetector detector;
@@ -11,5 +13,9 @@ public class SchedulingEngine {
         this.network = network;
         this.detector = new ConflictDetector();
         this.resolver = new PriorityResolver();
+    }
+    
+    public List<TimeSlot> checkConflicts(TimeSlot slot) {
+        return detector.getConflicts(slot);
     }
 }
