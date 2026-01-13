@@ -19,6 +19,7 @@ public class IntervalTree {
     }
     
     public void insert(TimeSlot slot) {
+        if (slot == null) return;  // Fix: null check
         root = insertHelper(root, slot);
     }
     
@@ -39,6 +40,7 @@ public class IntervalTree {
     
     public List<TimeSlot> findOverlapping(TimeSlot slot) {
         List<TimeSlot> results = new ArrayList<>();
+        if (slot == null) return results;  // Fix: null check
         findOverlaps(root, slot, results);
         return results;
     }
@@ -61,5 +63,18 @@ public class IntervalTree {
     
     private boolean overlaps(TimeSlot a, TimeSlot b) {
         return a.startTime < b.endTime && b.startTime < a.endTime;
+    }
+    
+    public List<TimeSlot> getAll() {
+        List<TimeSlot> all = new ArrayList<>();
+        collectAll(root, all);
+        return all;
+    }
+    
+    private void collectAll(Node n, List<TimeSlot> list) {
+        if (n == null) return;
+        collectAll(n.left, list);
+        list.add(n.slot);
+        collectAll(n.right, list);
     }
 }
