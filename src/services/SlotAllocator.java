@@ -1,8 +1,12 @@
 ﻿package services;
 
+// This file is no longer needed - use SchedulingEngine instead
+// Keeping for backwards compatibility
+
 import models.TimeSlot;
 import models.SchedulingResult;
 
+@Deprecated
 public class SlotAllocator {
     private ConflictDetector detector;
     
