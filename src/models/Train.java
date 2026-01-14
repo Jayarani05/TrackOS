@@ -11,16 +11,36 @@ public class Train {
         this.id = id;
         this.name = name;
         this.type = type;
+        this.passengerCount = 0;
+        this.delayMinutes = 0;
     }
     
     public int getPriority() {
-        int score = 0;
-        if (type == TrainType.EXPRESS) score += 100;
-        else if (type == TrainType.LOCAL) score += 50;
-        else score += 25;
-        
-        score += passengerCount / 10;
-        score += delayMinutes * 2;
+        int score = getBaseScore();
+        score += getPassengerBonus();
+        score += getDelayBonus();
         return score;
+    }
+    
+    private int getBaseScore() {
+        switch (type) {
+            case EXPRESS: return 100;
+            case LOCAL: return 50;
+            case CARGO: return 25;
+            default: return 0;
+        }
+    }
+    
+    private int getPassengerBonus() {
+        return passengerCount / 10;
+    }
+    
+    private int getDelayBonus() {
+        return delayMinutes * 2;
+    }
+    
+    @Override
+    public String toString() {
+        return name + " (" + type + ", priority=" + getPriority() + ")";
     }
 }
