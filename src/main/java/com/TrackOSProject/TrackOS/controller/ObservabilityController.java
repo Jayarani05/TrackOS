@@ -85,4 +85,36 @@ public class ObservabilityController {
         runtime.put("uptimeMs", ManagementFactory.getRuntimeMXBean().getUptime());
         return runtime;
     }
+
+    @GetMapping("/metrics")
+    public Map<String, Object> getMetrics() {
+        Map<String, Object> metrics = new HashMap<>();
+
+        // Memory metrics
+        Runtime runtime = Runtime.getRuntime();
+        MemoryMXBean memoryBean = ManagementFactory.getMemoryMXBean();
+        metrics.put("heapUsed", memoryBean.getHeapMemoryUsage().getUsed());
+        metrics.put("heapMax", memoryBean.getHeapMemoryUsage().getMax());
+
+        // Thread metrics
+        ThreadMXBean threadBean = ManagementFactory.getThreadMXBean();
+        metrics.put("threadCount", threadBean.getThreadCount());
+
+        // GC metrics
+        List<GarbageCollectorMXBean> gcBeans = ManagementFactory.getGarbageCollectorMXBeans();
+        long totalCollections = 0;
+        long totalGcTime = 0;
+        for (GarbageCollectorMXBean bean : gcBeans) {
+            totalCollections += bean.getCollectionCount();
+            totalGcTime += bean.getCollectionTime();
+        }
+        metrics.put("gcCollections", totalCollections);
+        metrics.put("gcTimeMs", totalGcTime);
+
+        // Runtime metrics
+        metrics.put("uptimeMs", ManagementFactory.getRuntimeMXBean().getUptime());
+        metrics.put("availableProcessors", runtime.availableProcessors());
+
+        return metrics;
+    }
 }

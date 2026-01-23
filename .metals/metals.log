@@ -1418,3 +1418,69 @@ WARNING: Unmatched cancel notification for request id 2
 2026.01.23 19:27:41 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
 2026.01.23 19:27:41 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
 2026.01.23 19:27:43 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:29:02 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\MetricsCollector.java. Using fallback presentation compiler.
+2026.01.23 19:29:02 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\ThreadMonitor.java. Using fallback presentation compiler.
+2026.01.23 19:29:02 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\ThreadMonitor.java
+2026.01.23 19:29:02 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\ThreadMonitor.java. Using fallback presentation compiler.
+2026.01.23 19:29:06 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:29:07 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java
+2026.01.23 19:29:07 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:29:06 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:29:09 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\ThreadMonitor.java. Using fallback presentation compiler.
+2026.01.23 19:29:09 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\ThreadMonitor.java
+2026.01.23 19:29:09 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\ThreadMonitor.java. Using fallback presentation compiler.
+2026.01.23 19:29:11 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:29:11 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java
+2026.01.23 19:29:12 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:29:11 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:29:36 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:29:36 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:31:17 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\ObservabilityController.java. Using fallback presentation compiler.
+2026.01.23 19:31:17 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\ObservabilityController.java. Using fallback presentation compiler.
+2026.01.23 19:31:22 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\ObservabilityController.java. Using fallback presentation compiler.
+2026.01.23 19:31:22 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\ObservabilityController.java. Using fallback presentation compiler.
+2026.01.23 19:31:23 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\ObservabilityController.java. Using fallback presentation compiler.
+2026.01.23 19:31:24 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\ObservabilityController.java. Using fallback presentation compiler.
+2026.01.23 19:31:27 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\ObservabilityController.java. Using fallback presentation compiler.
+2026.01.23 19:31:27 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\ObservabilityController.java. Using fallback presentation compiler.
+2026.01.23 19:31:31 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\ObservabilityController.java. Using fallback presentation compiler.
+2026.01.23 19:31:31 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\ObservabilityController.java
+2026.01.23 19:31:31 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\ObservabilityController.java. Using fallback presentation compiler.
+2026.01.23 19:31:31 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\ObservabilityController.java. Using fallback presentation compiler.
+2026.01.23 19:31:34 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\ObservabilityController.java. Using fallback presentation compiler.
+2026.01.23 19:31:34 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\ObservabilityController.java
+2026.01.23 19:31:34 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\ObservabilityController.java. Using fallback presentation compiler.
+2026.01.23 19:31:35 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\ObservabilityController.java. Using fallback presentation compiler.
+2026.01.23 19:31:35 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\ObservabilityController.java. Using fallback presentation compiler.
+2026.01.23 19:31:52 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\GCMonitor.java. Using fallback presentation compiler.
+2026.01.23 19:31:52 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\MemoryMonitor.java. Using fallback presentation compiler.
+2026.01.23 19:31:52 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAConfig.java. Using fallback presentation compiler.
+2026.01.23 19:31:52 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\ThreadMonitor.java. Using fallback presentation compiler.
+2026.01.23 19:32:10 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\DTO\Request\RouteRequest.java. Using fallback presentation compiler.
+2026.01.23 19:32:10 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\DTO\Request\RouteRequest.java. Using fallback presentation compiler.
+2026.01.23 19:32:29 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\DTO\Request\RouteRequest.java. Using fallback presentation compiler.
+2026.01.23 19:32:29 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\DTO\Request\SlotRequest.java. Using fallback presentation compiler.
+2026.01.23 19:32:30 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\DTO\Request\SlotRequest.java. Using fallback presentation compiler.
+2026.01.23 19:32:37 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\DTO\Request\SlotRequest.java. Using fallback presentation compiler.
+2026.01.23 19:32:37 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\AllocationController.java. Using fallback presentation compiler.
+2026.01.23 19:32:37 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\AllocationController.java. Using fallback presentation compiler.
+2026.01.23 19:32:41 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\AllocationController.java. Using fallback presentation compiler.
+2026.01.23 19:32:43 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\ObservabilityController.java. Using fallback presentation compiler.
+2026.01.23 19:32:43 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\ObservabilityController.java
+2026.01.23 19:32:44 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\ObservabilityController.java. Using fallback presentation compiler.
+2026.01.23 19:32:46 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\ObservabilityController.java. Using fallback presentation compiler.
+2026.01.23 19:32:46 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\ObservabilityController.java. Using fallback presentation compiler.
+2026.01.23 19:32:51 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\AllocationController.java. Using fallback presentation compiler.
+2026.01.23 19:32:51 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\TrainController.java. Using fallback presentation compiler.
+2026.01.23 19:32:51 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\TrainController.java. Using fallback presentation compiler.
+2026.01.23 19:32:51 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\TrainController.java. Using fallback presentation compiler.
+2026.01.23 19:32:51 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\TrainController.java. Using fallback presentation compiler.
+2026.01.23 19:32:52 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\TrainController.java. Using fallback presentation compiler.
+2026.01.23 19:33:02 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\TrainController.java. Using fallback presentation compiler.
+2026.01.23 19:33:02 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\AllocationService.java. Using fallback presentation compiler.
+2026.01.23 19:33:02 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\AllocationService.java. Using fallback presentation compiler.
+2026.01.23 19:33:02 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\AllocationService.java. Using fallback presentation compiler.
+2026.01.23 19:33:07 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\AllocationService.java. Using fallback presentation compiler.
+2026.01.23 19:33:07 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\TrainService.java. Using fallback presentation compiler.
+2026.01.23 19:33:07 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\TrainService.java. Using fallback presentation compiler.
+2026.01.23 19:33:08 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\TrainService.java. Using fallback presentation compiler.
