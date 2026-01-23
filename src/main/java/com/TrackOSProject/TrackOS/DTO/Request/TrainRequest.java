@@ -1,7 +1,5 @@
 package com.TrackOSProject.TrackOS.DTO.Request;
 
-import com.TrackOSProject.TrackOS.model.Train;
-
 /**
  * Request to register a new train.
  */
@@ -9,13 +7,13 @@ public class TrainRequest {
 
     private String trainId;
     private String name;
-    private Train.TrainType type;
+    private String type;
     private int passengerCount;
 
     public TrainRequest() {
     }
 
-    public TrainRequest(String trainId, String name, Train.TrainType type, int passengerCount) {
+    public TrainRequest(String trainId, String name, String type, int passengerCount) {
         this.trainId = trainId;
         this.name = name;
         this.type = type;
@@ -39,11 +37,11 @@ public class TrainRequest {
         this.name = name;
     }
 
-    public Train.TrainType getType() {
+    public String getType() {
         return type;
     }
 
-    public void setType(Train.TrainType type) {
+    public void setType(String type) {
         this.type = type;
     }
 
