@@ -40,9 +40,17 @@ public class TrainService {
         Train train = trainRepository.findById(id)
                 .orElseThrow(() -> new RuntimeException("Train not found with id: " + id));
 
+        train.setTrainNumber(trainDetails.getTrainNumber());
         train.setName(trainDetails.getName());
         train.setType(trainDetails.getType());
         train.setCapacity(trainDetails.getCapacity());
+        train.setSource(trainDetails.getSource());
+        train.setDestination(trainDetails.getDestination());
+        train.setDepartureTime(trainDetails.getDepartureTime());
+        train.setArrivalTime(trainDetails.getArrivalTime());
+        train.setMaxSpeed(trainDetails.getMaxSpeed());
+        train.setStatus(trainDetails.getStatus());
+        train.setRoute(trainDetails.getRoute());
 
         return trainRepository.save(train);
     }
@@ -61,6 +69,9 @@ public class TrainService {
         if (train == null) {
             throw new IllegalArgumentException("Train cannot be null");
         }
+        if (train.getTrainNumber() == null || train.getTrainNumber().trim().isEmpty()) {
+            throw new IllegalArgumentException("Train number is required");
+        }
         if (train.getName() == null || train.getName().trim().isEmpty()) {
             throw new IllegalArgumentException("Train name is required");
         }
@@ -69,6 +80,19 @@ public class TrainService {
         }
         if (train.getCapacity() == null || train.getCapacity() < 1) {
             throw new IllegalArgumentException("Capacity must be at least 1");
+        }
+        if (train.getSource() == null || train.getSource().trim().isEmpty()) {
+            throw new IllegalArgumentException("Source station is required");
+        }
+        if (train.getDestination() == null || train.getDestination().trim().isEmpty()) {
+            throw new IllegalArgumentException("Destination station is required");
+        }
+        if (train.getDepartureTime() != null && train.getArrivalTime() != null
+                && train.getArrivalTime().isBefore(train.getDepartureTime())) {
+            throw new IllegalArgumentException("Arrival time must be after departure time");
+        }
+        if (train.getMaxSpeed() != null && train.getMaxSpeed() < 0) {
+            throw new IllegalArgumentException("Speed cannot be negative");
         }
     }
 }

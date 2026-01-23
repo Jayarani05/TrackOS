@@ -49,6 +49,12 @@ public class AllocationService {
         allocation.setStartTime(allocationDetails.getStartTime());
         allocation.setEndTime(allocationDetails.getEndTime());
         allocation.setStatus(allocationDetails.getStatus());
+        allocation.setSource(allocationDetails.getSource());
+        allocation.setDestination(allocationDetails.getDestination());
+        allocation.setPlatformNumber(allocationDetails.getPlatformNumber());
+        allocation.setPriority(allocationDetails.getPriority());
+        allocation.setRemarks(allocationDetails.getRemarks());
+        allocation.setAllocatedBy(allocationDetails.getAllocatedBy());
 
         return allocationRepository.save(allocation);
     }
@@ -84,6 +90,18 @@ public class AllocationService {
         }
         if (allocation.getStatus() == null || allocation.getStatus().trim().isEmpty()) {
             throw new IllegalArgumentException("Status is required");
+        }
+        if (allocation.getSource() == null || allocation.getSource().trim().isEmpty()) {
+            throw new IllegalArgumentException("Source station is required");
+        }
+        if (allocation.getDestination() == null || allocation.getDestination().trim().isEmpty()) {
+            throw new IllegalArgumentException("Destination station is required");
+        }
+        if (allocation.getPlatformNumber() != null && allocation.getPlatformNumber() < 1) {
+            throw new IllegalArgumentException("Platform number must be at least 1");
+        }
+        if (allocation.getPriority() != null && allocation.getPriority() < 1) {
+            throw new IllegalArgumentException("Priority must be at least 1");
         }
     }
 }

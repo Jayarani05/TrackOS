@@ -1963,3 +1963,141 @@ WARNING: Unmatched cancel notification for request id 93
 2026.01.23 19:45:44 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\AllocationController.java. Using fallback presentation compiler.
 2026.01.23 19:45:44 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\AllocationService.java. Using fallback presentation compiler.
 2026.01.23 19:45:46 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\TrackOsApplication.java
+2026.01.23 19:46:05 INFO  skipping build import with status 'Dismissed'
+2026.01.23 19:46:21 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\TrainService.java
+2026.01.23 19:46:21 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\TrainController.java
+2026.01.23 19:46:21 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\AllocationController.java
+2026.01.23 19:46:27 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\AllocationService.java
+2026.01.23 19:46:27 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\AllocationService.java. Using fallback presentation compiler.
+2026.01.23 19:46:27 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\AllocationService.java. Using fallback presentation compiler.
+2026.01.23 19:46:27 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\AllocationService.java. Using fallback presentation compiler.
+2026.01.23 19:46:27 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\AllocationService.java. Using fallback presentation compiler.
+2026.01.23 19:46:27 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\AllocationService.java. Using fallback presentation compiler.
+2026.01.23 19:46:28 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\AllocationService.java. Using fallback presentation compiler.
+2026.01.23 19:46:28 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\AllocationService.java. Using fallback presentation compiler.
+2026.01.23 19:46:28 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\AllocationService.java. Using fallback presentation compiler.
+2026.01.23 19:46:31 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\AllocationService.java. Using fallback presentation compiler.
+2026.01.23 19:46:31 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\AllocationService.java. Using fallback presentation compiler.
+2026.01.23 19:46:31 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\AllocationService.java. Using fallback presentation compiler.
+2026.01.23 19:46:31 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\AllocationService.java. Using fallback presentation compiler.
+2026.01.23 19:46:31 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\AllocationService.java. Using fallback presentation compiler.
+2026.01.23 19:46:31 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\AllocationService.java. Using fallback presentation compiler.
+2026.01.23 19:46:32 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\AllocationService.java. Using fallback presentation compiler.
+2026.01.23 19:46:32 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\AllocationService.java. Using fallback presentation compiler.
+2026.01.23 19:46:32 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\AllocationService.java
+2026.01.23 19:46:32 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\AllocationService.java. Using fallback presentation compiler.
+2026.01.23 19:46:36 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\TrainService.java. Using fallback presentation compiler.
+2026.01.23 19:46:36 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\TrainController.java. Using fallback presentation compiler.
+2026.01.23 19:46:36 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\AllocationController.java. Using fallback presentation compiler.
+2026.01.23 19:46:36 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\TrainService.java
+2026.01.23 19:46:36 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\AllocationController.java
+2026.01.23 19:46:36 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\AllocationService.java. Using fallback presentation compiler.
+2026.01.23 19:46:36 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\TrainController.java
+2026.01.23 19:46:37 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\AllocationService.java. Using fallback presentation compiler.
+2026.01.23 19:46:43 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\TrainController.java. Using fallback presentation compiler.
+2026.01.23 19:46:43 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\AllocationController.java. Using fallback presentation compiler.
+2026.01.23 19:46:43 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\AllocationController.java
+2026.01.23 19:46:43 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\TrainController.java
+2026.01.23 19:46:43 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\AllocationService.java. Using fallback presentation compiler.
+2026.01.23 19:46:43 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\TrainService.java. Using fallback presentation compiler.
+2026.01.23 19:46:44 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\TrainService.java
+2026.01.23 19:46:44 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\AllocationService.java. Using fallback presentation compiler.
+2026.01.23 19:46:54 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\AllocationService.java. Using fallback presentation compiler.
+2026.01.23 19:48:46 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\TrackOsApplication.java. Using fallback presentation compiler.
+2026.01.23 20:29:35 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\AllocationService.java. Using fallback presentation compiler.
+2026.01.23 20:29:35 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\AllocationService.java
+2026.01.23 20:29:35 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\AllocationService.java. Using fallback presentation compiler.
+2026.01.23 20:29:35 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\AllocationService.java. Using fallback presentation compiler.
+2026.01.23 20:29:36 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\AllocationService.java. Using fallback presentation compiler.
+2026.01.23 20:29:41 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\AllocationService.java. Using fallback presentation compiler.
+2026.01.23 20:29:41 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\AllocationService.java. Using fallback presentation compiler.
+2026.01.23 20:29:41 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\AllocationService.java. Using fallback presentation compiler.
+2026.01.23 20:29:46 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Allocation.java
+2026.01.23 20:29:46 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Allocation.java. Using fallback presentation compiler.
+2026.01.23 20:29:46 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Allocation.java. Using fallback presentation compiler.
+2026.01.23 20:29:46 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Allocation.java. Using fallback presentation compiler.
+2026.01.23 20:29:49 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Allocation.java. Using fallback presentation compiler.
+2026.01.23 20:29:52 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Allocation.java. Using fallback presentation compiler.
+2026.01.23 20:29:55 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Allocation.java. Using fallback presentation compiler.
+2026.01.23 20:29:55 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java
+2026.01.23 20:29:55 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.01.23 20:29:55 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.01.23 20:29:55 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.01.23 20:29:55 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.01.23 20:29:57 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.01.23 20:29:57 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.01.23 20:30:01 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.01.23 20:30:08 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.01.23 20:30:15 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\AllocationService.java. Using fallback presentation compiler.
+2026.01.23 20:30:15 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\AllocationService.java
+2026.01.23 20:30:16 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\AllocationService.java. Using fallback presentation compiler.
+2026.01.23 20:30:15 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\AllocationService.java. Using fallback presentation compiler.
+2026.01.23 20:30:15 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\AllocationService.java. Using fallback presentation compiler.
+2026.01.23 20:30:17 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.01.23 20:30:17 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Allocation.java
+2026.01.23 20:30:17 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Allocation.java. Using fallback presentation compiler.
+2026.01.23 20:30:17 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Allocation.java. Using fallback presentation compiler.
+2026.01.23 20:30:17 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Allocation.java. Using fallback presentation compiler.
+2026.01.23 20:30:18 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Allocation.java. Using fallback presentation compiler.
+2026.01.23 20:30:21 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Allocation.java. Using fallback presentation compiler.
+2026.01.23 20:30:26 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Allocation.java. Using fallback presentation compiler.
+2026.01.23 20:30:26 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Allocation.java. Using fallback presentation compiler.
+2026.01.23 20:30:28 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Allocation.java. Using fallback presentation compiler.
+2026.01.23 20:30:32 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Allocation.java. Using fallback presentation compiler.
+2026.01.23 20:30:33 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Allocation.java. Using fallback presentation compiler.
+2026.01.23 20:30:37 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Allocation.java. Using fallback presentation compiler.
+2026.01.23 20:30:37 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java
+2026.01.23 20:30:37 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.01.23 20:30:37 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.01.23 20:30:37 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.01.23 20:30:38 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.01.23 20:30:40 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.01.23 20:31:01 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.01.23 20:32:01 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.01.23 20:32:15 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Allocation.java
+2026.01.23 20:32:15 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.01.23 20:32:22 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\AllocationController.java. Using fallback presentation compiler.
+2026.01.23 20:32:22 INFO  Created report: Optional[file:///C:/Projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/controller/AllocationController.java]
+2026.01.23 20:32:22 INFO  empty definition using pc, found symbol in pc: _empty_/ResponseEntity#status# (full report at: "C:\Projects\TrackOS\.metals\.reports\metals-full\2026-01-23\r_empty-definition_20-32-23-046.md")
+2026.01.23 20:32:37 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.01.23 20:32:47 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.01.23 20:32:50 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\AllocationService.java. Using fallback presentation compiler.
+2026.01.23 20:32:51 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\AllocationService.java
+2026.01.23 20:32:51 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\AllocationService.java. Using fallback presentation compiler.
+2026.01.23 20:32:50 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\AllocationService.java. Using fallback presentation compiler.
+2026.01.23 20:33:03 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.01.23 20:33:03 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Allocation.java. Using fallback presentation compiler.
+2026.01.23 20:33:03 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\TrainService.java. Using fallback presentation compiler.
+2026.01.23 20:33:03 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\AllocationService.java. Using fallback presentation compiler.
+2026.01.23 20:33:03 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java
+2026.01.23 20:33:03 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Allocation.java
+2026.01.23 20:33:03 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\TrainService.java
+2026.01.23 20:33:03 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\AllocationService.java
+2026.01.23 20:33:04 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\AllocationService.java. Using fallback presentation compiler.
+2026.01.23 20:33:03 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\AllocationService.java. Using fallback presentation compiler.
+2026.01.23 20:33:04 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\AllocationService.java. Using fallback presentation compiler.
+2026.01.23 20:33:06 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\AllocationService.java. Using fallback presentation compiler.
+2026.01.23 20:33:06 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\AllocationService.java. Using fallback presentation compiler.
+2026.01.23 20:33:11 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\AllocationController.java. Using fallback presentation compiler.
+2026.01.23 20:33:11 INFO  empty definition using pc, found symbol in pc: _empty_/ResponseEntity#status# (full report at: "C:\Projects\TrackOS\.metals\.reports\metals-full\2026-01-23\r_empty-definition_20-32-23-046.md")
+2026.01.23 20:33:13 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\TrainController.java. Using fallback presentation compiler.
+2026.01.23 20:33:13 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\TrainService.java. Using fallback presentation compiler.
+2026.01.23 20:33:13 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\AllocationController.java. Using fallback presentation compiler.
+2026.01.23 20:33:13 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\AllocationService.java. Using fallback presentation compiler.
+2026.01.23 20:33:27 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.01.23 20:33:27 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java
+2026.01.23 20:33:27 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.01.23 20:33:27 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.01.23 20:33:28 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Allocation.java. Using fallback presentation compiler.
+2026.01.23 20:33:28 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Allocation.java
+2026.01.23 20:33:28 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Allocation.java. Using fallback presentation compiler.
+2026.01.23 20:33:31 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\TrainService.java. Using fallback presentation compiler.
+2026.01.23 20:33:31 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Allocation.java. Using fallback presentation compiler.
+2026.01.23 20:33:31 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.01.23 20:33:31 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\AllocationService.java
+2026.01.23 20:33:31 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java
+2026.01.23 20:33:31 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Allocation.java. Using fallback presentation compiler.
+2026.01.23 20:33:31 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\TrainService.java
+2026.01.23 20:33:31 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Allocation.java. Using fallback presentation compiler.
+2026.01.23 20:33:31 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Allocation.java
+2026.01.23 20:33:31 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Allocation.java. Using fallback presentation compiler.
