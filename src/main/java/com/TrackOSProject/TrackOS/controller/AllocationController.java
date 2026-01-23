@@ -2,6 +2,8 @@ package com.TrackOSProject.TrackOS.controller;
 
 import java.util.List;
 
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -15,51 +17,62 @@ import org.springframework.web.bind.annotation.RestController;
 import com.TrackOSProject.TrackOS.Entity.Allocation;
 import com.TrackOSProject.TrackOS.service.AllocationService;
 
+import jakarta.validation.Valid;
+
 @RestController
 @RequestMapping("/api/allocations")
 public class AllocationController {
 
-    private final AllocationService allocationService;
-
-    public AllocationController(AllocationService allocationService) {
-        this.allocationService = allocationService;
-    }
+    @Autowired
+    private AllocationService allocationService;
 
     @GetMapping
-    public List<Allocation> getAllAllocations() {
-        return allocationService.getAllAllocations();
+    public ResponseEntity<List<Allocation>> getAllAllocations() {
+        return ResponseEntity.ok(allocationService.getAllAllocations());
     }
 
     @GetMapping("/{id}")
-    public ResponseEntity<Allocation> getAllocationById(@PathVariable Long id) {
-        return allocationService.getAllocationById(id)
-                .map(ResponseEntity::ok)
-                .orElse(ResponseEntity.notFound().build());
-    }
-
-    @GetMapping("/train/{trainId}")
-    public List<Allocation> getAllocationsByTrain(@PathVariable Long trainId) {
-        return allocationService.getAllocationsByTrainId(trainId);
+    public ResponseEntity<?> getAllocationById(@PathVariable Long id) {
+        try {
+            return allocationService.getAllocationById(id)
+                    .map(ResponseEntity::ok)
+                    .orElse(ResponseEntity.notFound().build());
+        } catch (IllegalArgumentException e) {
+            return ResponseEntity.badRequest().body(e.getMessage());
+        }
     }
 
     @PostMapping
-    public Allocation createAllocation(@RequestBody Allocation allocation) {
-        return allocationService.saveAllocation(allocation);
+    public ResponseEntity<?> createAllocation(@Valid @RequestBody Allocation allocation) {
+        try {
+            Allocation savedAllocation = allocationService.saveAllocation(allocation);
+            return ResponseEntity.status(HttpStatus.CREATED).body(savedAllocation);
+        } catch (IllegalArgumentException e) {
+            return ResponseEntity.badRequest().body(e.getMessage());
+        }
     }
 
     @PutMapping("/{id}")
-    public ResponseEntity<Allocation> updateAllocation(@PathVariable Long id, @RequestBody Allocation allocation) {
-        return allocationService.getAllocationById(id)
-                .map(existing -> {
-                    allocation.setId(id);
-                    return ResponseEntity.ok(allocationService.saveAllocation(allocation));
-                })
-                .orElse(ResponseEntity.notFound().build());
+    public ResponseEntity<?> updateAllocation(@PathVariable Long id, @Valid @RequestBody Allocation allocation) {
+        try {
+            Allocation updatedAllocation = allocationService.updateAllocation(id, allocation);
+            return ResponseEntity.ok(updatedAllocation);
+        } catch (IllegalArgumentException e) {
+            return ResponseEntity.badRequest().body(e.getMessage());
+        } catch (RuntimeException e) {
+            return ResponseEntity.notFound().build();
+        }
     }
 
     @DeleteMapping("/{id}")
-    public ResponseEntity<Void> deleteAllocation(@PathVariable Long id) {
-        allocationService.deleteAllocation(id);
-        return ResponseEntity.noContent().build();
+    public ResponseEntity<?> deleteAllocation(@PathVariable Long id) {
+        try {
+            allocationService.deleteAllocation(id);
+            return ResponseEntity.noContent().build();
+        } catch (IllegalArgumentException e) {
+            return ResponseEntity.badRequest().body(e.getMessage());
+        } catch (RuntimeException e) {
+            return ResponseEntity.notFound().build();
+        }
     }
 }

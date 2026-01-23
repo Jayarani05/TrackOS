@@ -1,6 +1,9 @@
 package com.TrackOSProject.TrackOS.Entity;
 
 import jakarta.persistence.*;
+import jakarta.validation.constraints.Min;
+import jakarta.validation.constraints.NotBlank;
+import jakarta.validation.constraints.NotNull;
 
 @Entity
 @Table(name = "trains")
@@ -10,14 +13,20 @@ public class Train {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
+    @NotBlank(message = "Train name is required")
     private String name;
+
+    @NotBlank(message = "Train type is required")
     private String type;
-    private int capacity;
+
+    @NotNull(message = "Capacity is required")
+    @Min(value = 1, message = "Capacity must be at least 1")
+    private Integer capacity;
 
     public Train() {
     }
 
-    public Train(String name, String type, int capacity) {
+    public Train(String name, String type, Integer capacity) {
         this.name = name;
         this.type = type;
         this.capacity = capacity;
@@ -48,11 +57,11 @@ public class Train {
         this.type = type;
     }
 
-    public int getCapacity() {
+    public Integer getCapacity() {
         return capacity;
     }
 
-    public void setCapacity(int capacity) {
+    public void setCapacity(Integer capacity) {
         this.capacity = capacity;
     }
 }

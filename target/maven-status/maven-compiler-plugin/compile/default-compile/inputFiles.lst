@@ -1,12 +1,6 @@
 C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\AllocationController.java
 C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\ObservabilityController.java
 C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\TrainController.java
-C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\DTO\Request\RouteRequest.java
-C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\DTO\Request\SlotRequest.java
-C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\DTO\Request\TrainRequest.java
-C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\DTO\Response\ApiResponse.java
-C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\DTO\Response\HealthResponse.java
-C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\DTO\Response\SlotResponse.java
 C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Allocation.java
 C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java
 C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\GCMonitor.java
