@@ -1145,3 +1145,276 @@ WARNING: Unmatched cancel notification for request id 326
 2026.01.23 19:22:55 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\GCMonitor.java. Using fallback presentation compiler.
 2026.01.23 19:22:57 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\GCMonitor.java. Using fallback presentation compiler.
 2026.01.23 19:22:57 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\GCMonitor.java. Using fallback presentation compiler.
+2026.01.23 19:24:47 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\GCMonitor.java. Using fallback presentation compiler.
+2026.01.23 19:24:47 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\LatencyTracker.java. Using fallback presentation compiler.
+2026.01.23 19:24:47 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\LatencyTracker.java
+2026.01.23 19:24:47 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\LatencyTracker.java. Using fallback presentation compiler.
+2026.01.23 19:24:47 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\LatencyTracker.java. Using fallback presentation compiler.
+2026.01.23 19:24:48 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:24:48 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java
+2026.01.23 19:24:48 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:24:48 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:24:50 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:24:50 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:24:51 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:24:53 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:24:53 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:24:53 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:24:53 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:24:54 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/SLAChecker.java. Output:
+
+2026.01.23 19:24:54 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:24:54 INFO  Created report: Optional[file:///C:/Projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/SLAChecker.java]
+2026.01.23 19:24:54 INFO  empty definition using pc, found symbol in pc: _empty_/SLAConfig# (full report at: "C:\Projects\TrackOS\.metals\.reports\metals-full\2026-01-23\r_empty-definition_19-24-54-356.md")
+2026.01.23 19:24:54 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:24:54 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:24:55 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:24:55 INFO  empty definition using pc, found symbol in pc: _empty_/SLAConfig# (full report at: "C:\Projects\TrackOS\.metals\.reports\metals-full\2026-01-23\r_empty-definition_19-24-54-356.md")
+2026.01.23 19:24:54 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAConfig.java. Using fallback presentation compiler.
+2026.01.23 19:24:55 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAConfig.java
+2026.01.23 19:24:55 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAConfig.java. Using fallback presentation compiler.
+2026.01.23 19:24:55 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAConfig.java. Using fallback presentation compiler.
+2026.01.23 19:24:55 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAConfig.java. Using fallback presentation compiler.
+2026.01.23 19:24:59 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\LatencyTracker.java. Using fallback presentation compiler.
+2026.01.23 19:24:59 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\LatencyTracker.java
+2026.01.23 19:25:00 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\LatencyTracker.java. Using fallback presentation compiler.
+2026.01.23 19:24:59 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\LatencyTracker.java. Using fallback presentation compiler.
+2026.01.23 19:25:04 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\AllocationController.java. Using fallback presentation compiler.
+2026.01.23 19:25:04 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\AllocationController.java
+2026.01.23 19:25:05 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\AllocationController.java. Using fallback presentation compiler.
+2026.01.23 19:25:04 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\ObservabilityController.java. Using fallback presentation compiler.
+2026.01.23 19:25:05 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\ObservabilityController.java
+2026.01.23 19:25:06 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\ObservabilityController.java. Using fallback presentation compiler.
+2026.01.23 19:25:06 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\TrainController.java. Using fallback presentation compiler.
+2026.01.23 19:25:06 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\TrainController.java
+Jan 23, 2026 7:25:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 970
+2026.01.23 19:25:06 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\TrainController.java. Using fallback presentation compiler.
+2026.01.23 19:25:18 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\GCMonitor.java. Using fallback presentation compiler.
+2026.01.23 19:25:18 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\LatencyTracker.java. Using fallback presentation compiler.
+2026.01.23 19:25:18 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\MemoryMonitor.java. Using fallback presentation compiler.
+2026.01.23 19:25:18 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\MetricsCollector.java. Using fallback presentation compiler.
+2026.01.23 19:25:18 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:25:18 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAConfig.java. Using fallback presentation compiler.
+2026.01.23 19:25:18 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\ThreadMonitor.java. Using fallback presentation compiler.
+2026.01.23 19:25:18 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\GCMonitor.java
+2026.01.23 19:25:18 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\LatencyTracker.java
+2026.01.23 19:25:18 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\MemoryMonitor.java
+2026.01.23 19:25:18 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\MetricsCollector.java
+2026.01.23 19:25:18 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java
+2026.01.23 19:25:18 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\ThreadMonitor.java
+2026.01.23 19:25:18 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAConfig.java
+2026.01.23 19:25:18 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/GCMonitor.java. Output:
+
+2026.01.23 19:25:19 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/SLAConfig.java. Output:
+
+2026.01.23 19:25:18 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\TrainController.java. Using fallback presentation compiler.
+2026.01.23 19:25:18 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Output:
+
+2026.01.23 19:25:19 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/SLAChecker.java. Output:
+
+2026.01.23 19:25:19 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MetricsCollector.java. Output:
+
+2026.01.23 19:25:19 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Output:
+
+2026.01.23 19:25:19 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/LatencyTracker.java. Output:
+
+2026.01.23 19:25:22 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\GCMonitor.java. Using fallback presentation compiler.
+2026.01.23 19:25:22 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\GCMonitor.java
+2026.01.23 19:25:22 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\GCMonitor.java. Using fallback presentation compiler.
+2026.01.23 19:25:30 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\GCMonitor.java. Using fallback presentation compiler.
+2026.01.23 19:25:30 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\GCMonitor.java. Using fallback presentation compiler.
+2026.01.23 19:25:30 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\GCMonitor.java. Using fallback presentation compiler.
+2026.01.23 19:25:30 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\GCMonitor.java. Using fallback presentation compiler.
+2026.01.23 19:25:33 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\ThreadMonitor.java. Using fallback presentation compiler.
+2026.01.23 19:25:33 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\ThreadMonitor.java
+2026.01.23 19:25:33 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\GCMonitor.java. Using fallback presentation compiler.
+2026.01.23 19:25:33 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Output:
+
+2026.01.23 19:25:35 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\GCMonitor.java. Using fallback presentation compiler.
+Jan 23, 2026 7:25:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "chat-editing-snapshot-text-model:/c%3A/Projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java?%7B%22session%22%3A%7B%22%24mid%22%3A1%2C%22external%22%3A%22vscode-chat-session%3A%2F%2Flocal%2FOWQwODNiZTgtYjVhOC00YWY2LTg4NjQtMjdiYmE1ZTdiNWY5%22%2C%22path%22%3A%22%2FOWQwODNiZTgtYjVhOC00YWY2LTg4NjQtMjdiYmE1ZTdiNWY5%22%2C%22scheme%22%3A%22vscode-chat-session%22%2C%22authority%22%3A%22local%22%7D%2C%22requestId%22%3A%22request_dbcb4541-bc02-4c33-8686-8aaef056e667%22%2C%22undoStop%22%3A%22__epoch_9007199254740991%22%7D"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "chat-editing-snapshot-text-model" not installed
+	at java.base/java.nio.file.Path.of(Path.java:213)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:149)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:209)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:778)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:775)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:808)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+2026.01.23 19:25:40 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\LatencyTracker.java. Using fallback presentation compiler.
+2026.01.23 19:25:40 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\LatencyTracker.java
+2026.01.23 19:25:40 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\LatencyTracker.java. Using fallback presentation compiler.
+2026.01.23 19:25:41 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:25:41 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java
+2026.01.23 19:25:42 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:25:41 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:25:43 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:25:54 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:25:54 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\ThreadMonitor.java. Using fallback presentation compiler.
+2026.01.23 19:25:54 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\MemoryMonitor.java. Using fallback presentation compiler.
+2026.01.23 19:25:54 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\LatencyTracker.java. Using fallback presentation compiler.
+2026.01.23 19:25:54 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\MetricsCollector.java. Using fallback presentation compiler.
+2026.01.23 19:25:54 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAConfig.java. Using fallback presentation compiler.
+2026.01.23 19:25:54 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\GCMonitor.java. Using fallback presentation compiler.
+2026.01.23 19:25:54 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java
+2026.01.23 19:25:54 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:25:54 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\ThreadMonitor.java
+2026.01.23 19:25:54 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/SLAChecker.java. Output:
+
+2026.01.23 19:25:54 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Output:
+
+2026.01.23 19:25:54 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\MemoryMonitor.java
+2026.01.23 19:25:54 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Output:
+
+2026.01.23 19:25:54 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\LatencyTracker.java
+2026.01.23 19:25:54 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/LatencyTracker.java. Output:
+
+2026.01.23 19:25:54 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\MetricsCollector.java
+2026.01.23 19:25:54 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\GCMonitor.java
+2026.01.23 19:25:54 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MetricsCollector.java. Output:
+
+2026.01.23 19:25:54 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/GCMonitor.java. Output:
+
+2026.01.23 19:25:54 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAConfig.java
+2026.01.23 19:25:54 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/SLAConfig.java. Output:
+
+2026.01.23 19:25:54 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:25:54 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:25:55 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:25:55 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:25:57 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:25:59 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:25:59 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:25:59 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:26:02 INFO  Shutting down server
+2026.01.23 19:26:02 INFO  Memory monitor stopped
+2026.01.23 19:26:02 INFO  shutting down Metals
+2026.01.23 19:26:02 INFO  Exiting server
+2026.01.23 19:26:02 ERROR Unexpected error initializing server: 
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:204)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+
+2026.01.23 19:26:49 INFO  Started: Metals version 1.6.5 in folders 'C:\Projects\TrackOS' for client Visual Studio Code 1.108.1.
+2026.01.23 19:26:49 INFO  Memory monitor started
+2026.01.23 19:26:50 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.01.23 19:26:50 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+Jan 23, 2026 7:26:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2026.01.23 19:26:50 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:26:56 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:26:57 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:26:57 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:26:59 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:27:00 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:27:06 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\MetricsCollector.java. Using fallback presentation compiler.
+2026.01.23 19:27:06 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\MetricsCollector.java. Using fallback presentation compiler.
+2026.01.23 19:27:08 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\MetricsCollector.java. Using fallback presentation compiler.
+2026.01.23 19:27:12 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:27:12 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java
+2026.01.23 19:27:12 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:27:12 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:27:13 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:27:13 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:27:13 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:27:13 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:27:13 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:27:16 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/SLAChecker.java. Output:
+
+2026.01.23 19:27:16 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:27:16 INFO  Created report: Optional[file:///C:/Projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/SLAChecker.java]
+2026.01.23 19:27:16 INFO  empty definition using pc, found symbol in pc: _empty_/LatencyTracker# (full report at: "C:\Projects\TrackOS\.metals\.reports\metals-full\2026-01-23\r_empty-definition_19-27-16-367.md")
+2026.01.23 19:27:16 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:27:16 INFO  empty definition using pc, found symbol in pc: _empty_/LatencyTracker# (full report at: "C:\Projects\TrackOS\.metals\.reports\metals-full\2026-01-23\r_empty-definition_19-27-16-367.md")
+2026.01.23 19:27:16 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\LatencyTracker.java. Using fallback presentation compiler.
+2026.01.23 19:27:16 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\LatencyTracker.java. Using fallback presentation compiler.
+2026.01.23 19:27:16 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\LatencyTracker.java. Using fallback presentation compiler.
+2026.01.23 19:27:17 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/LatencyTracker.java. Output:
+
+2026.01.23 19:27:17 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\LatencyTracker.java. Using fallback presentation compiler.
+2026.01.23 19:27:17 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\LatencyTracker.java. Using fallback presentation compiler.
+2026.01.23 19:27:17 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\LatencyTracker.java. Using fallback presentation compiler.
+2026.01.23 19:27:17 INFO  Created report: Optional[file:///C:/Projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/LatencyTracker.java]
+2026.01.23 19:27:17 INFO  empty definition using pc, found symbol in pc: java/util/List# (full report at: "C:\Projects\TrackOS\.metals\.reports\metals-full\2026-01-23\r_empty-definition_19-27-17-761.md")
+2026.01.23 19:27:17 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\LatencyTracker.java. Using fallback presentation compiler.
+2026.01.23 19:27:19 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:27:19 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java
+2026.01.23 19:27:19 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:27:19 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:27:22 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:27:22 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:27:22 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:27:22 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:27:23 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:27:23 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:27:24 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:27:24 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java
+2026.01.23 19:27:24 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:27:24 INFO  Created report: Optional[file:///C:/Projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/SLAChecker.java]
+2026.01.23 19:27:24 INFO  QDox parse error in file:///C:/Projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/SLAChecker.java (full report at: "C:\Projects\TrackOS\.metals\.reports\metals-full\2026-01-23\r_qdox-error_19-27-24-507.md")
+2026.01.23 19:27:24 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/SLAChecker.java. Output:
+
+2026.01.23 19:27:25 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:27:25 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:27:25 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:27:26 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java
+2026.01.23 19:27:26 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:27:26 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/SLAChecker.java. Output:
+
+2026.01.23 19:27:26 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:27:28 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java
+2026.01.23 19:27:28 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:27:28 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/SLAChecker.java. Output:
+
+2026.01.23 19:27:30 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:27:30 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:27:30 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:27:30 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:27:30 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:27:33 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:27:34 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:27:34 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:27:40 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:27:40 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:27:40 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:27:40 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:27:40 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:27:41 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java
+2026.01.23 19:27:41 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:27:41 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/SLAChecker.java. Output:
+
+2026.01.23 19:27:41 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:27:41 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:27:41 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.
+2026.01.23 19:27:43 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java. Using fallback presentation compiler.

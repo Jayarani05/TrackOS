@@ -9,7 +9,13 @@ C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\DTO\Response\Health
 C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\DTO\Response\SlotResponse.java
 C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Allocation.java
 C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java
-C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAMonitor.java
+C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\GCMonitor.java
+C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\LatencyTracker.java
+C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\MemoryMonitor.java
+C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\MetricsCollector.java
+C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAChecker.java
+C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\SLAConfig.java
+C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\observability\ThreadMonitor.java
 C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Repository\AllocationRepository.java
 C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Repository\TrainRepository.java
 C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\service\AllocationService.java

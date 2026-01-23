@@ -1,10 +1,21 @@
+error id: file:///C:/Projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/LatencyTracker.java:java/util/List#
+file:///C:/Projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/LatencyTracker.java
+empty definition using pc, found symbol in pc: java/util/List#
+empty definition using semanticdb
+empty definition using fallback
+non-local guesses:
+
+offset: 146
+uri: file:///C:/Projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/LatencyTracker.java
+text:
+```scala
 package com.TrackOSProject.TrackOS.observability;
 
 import java.util.ArrayList;
 import java.util.List;
 
 public class LatencyTracker {
-    private List<Long> samples = new ArrayList<>();
+    private L@@ist<Long> samples = new ArrayList<>();
     private long threshold;
     private int violations = 0;
 
@@ -42,3 +53,10 @@ public class LatencyTracker {
         return ((samples.size() - violations) * 100.0) / samples.size();
     }
 }
+
+```
+
+
+#### Short summary: 
+
+empty definition using pc, found symbol in pc: java/util/List#
