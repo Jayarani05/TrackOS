@@ -928,3 +928,181 @@ WARNING: Unmatched cancel notification for request id 326
 2026.01.23 19:07:42 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
 2026.01.23 19:07:42 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
 2026.01.23 19:07:44 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:08:50 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:08:50 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:09:04 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:09:04 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:09:04 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/services/PathValidator.java. Output:
+
+2026.01.23 19:09:04 INFO  no build target found for C:\Projects\TrackOS\src\services\PathValidator.java. Using fallback presentation compiler.
+2026.01.23 19:09:04 INFO  no build target found for C:\Projects\TrackOS\src\services\PathValidator.java. Using fallback presentation compiler.
+2026.01.23 19:09:04 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/services/PriorityResolver.java. Output:
+
+2026.01.23 19:09:04 INFO  no build target found for C:\Projects\TrackOS\src\services\PriorityResolver.java. Using fallback presentation compiler.
+2026.01.23 19:09:04 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/services/Rescheduler.java. Output:
+
+2026.01.23 19:09:04 INFO  no build target found for C:\Projects\TrackOS\src\services\Rescheduler.java. Using fallback presentation compiler.
+2026.01.23 19:09:04 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/services/SlotAllocator.java. Output:
+
+2026.01.23 19:09:05 INFO  no build target found for C:\Projects\TrackOS\src\services\SlotAllocator.java. Using fallback presentation compiler.
+2026.01.23 19:09:23 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:09:23 INFO  no build target found for C:\Projects\TrackOS\src\services\SlotAllocator.java. Using fallback presentation compiler.
+2026.01.23 19:09:23 INFO  no build target found for C:\Projects\TrackOS\src\services\Rescheduler.java. Using fallback presentation compiler.
+2026.01.23 19:09:23 INFO  no build target found for C:\Projects\TrackOS\src\services\PriorityResolver.java. Using fallback presentation compiler.
+2026.01.23 19:09:23 INFO  no build target found for C:\Projects\TrackOS\src\services\PathValidator.java. Using fallback presentation compiler.
+2026.01.23 19:09:23 WARN  no build target for: C:\Projects\TrackOS\src\services\DelayHandler.java
+2026.01.23 19:09:23 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/services/DelayHandler.java. Output:
+
+2026.01.23 19:09:23 WARN  no build target for: C:\Projects\TrackOS\src\services\Rescheduler.java
+2026.01.23 19:09:23 WARN  no build target for: C:\Projects\TrackOS\src\services\SlotAllocator.java
+2026.01.23 19:09:23 WARN  no build target for: C:\Projects\TrackOS\src\services\PriorityResolver.java
+2026.01.23 19:09:23 WARN  no build target for: C:\Projects\TrackOS\src\services\PathValidator.java
+2026.01.23 19:09:23 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:09:23 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/services/SlotAllocator.java. Output:
+
+2026.01.23 19:09:23 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/services/Rescheduler.java. Output:
+
+2026.01.23 19:09:23 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/services/PriorityResolver.java. Output:
+
+2026.01.23 19:09:23 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/services/PathValidator.java. Output:
+
+2026.01.23 19:09:24 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:10:05 INFO  no build target found for C:\Projects\TrackOS\src\services\SlotAllocator.java. Using fallback presentation compiler.
+2026.01.23 19:10:05 WARN  no build target for: C:\Projects\TrackOS\src\services\SlotAllocator.java
+2026.01.23 19:10:05 INFO  no build target found for C:\Projects\TrackOS\src\services\SlotAllocator.java. Using fallback presentation compiler.
+2026.01.23 19:10:05 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:10:06 WARN  no build target for: C:\Projects\TrackOS\src\services\DelayHandler.java
+2026.01.23 19:10:06 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/services/DelayHandler.java. Output:
+
+2026.01.23 19:10:06 INFO  no build target found for C:\Projects\TrackOS\src\services\SlotAllocator.java. Using fallback presentation compiler.
+2026.01.23 19:10:07 INFO  no build target found for C:\Projects\TrackOS\src\services\PriorityResolver.java. Using fallback presentation compiler.
+2026.01.23 19:10:07 INFO  no build target found for C:\Projects\TrackOS\src\services\Rescheduler.java. Using fallback presentation compiler.
+2026.01.23 19:10:07 INFO  no build target found for C:\Projects\TrackOS\src\services\PathValidator.java. Using fallback presentation compiler.
+2026.01.23 19:10:07 INFO  no build target found for C:\Projects\TrackOS\src\services\SlotAllocator.java. Using fallback presentation compiler.
+2026.01.23 19:10:08 WARN  no build target for: C:\Projects\TrackOS\src\services\PriorityResolver.java
+2026.01.23 19:10:08 INFO  no build target found for C:\Projects\TrackOS\src\services\SlotAllocator.java. Using fallback presentation compiler.
+2026.01.23 19:10:08 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/services/PriorityResolver.java. Output:
+
+2026.01.23 19:10:08 WARN  no build target for: C:\Projects\TrackOS\src\services\Rescheduler.java
+2026.01.23 19:10:08 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/services/Rescheduler.java. Output:
+
+2026.01.23 19:10:08 WARN  no build target for: C:\Projects\TrackOS\src\services\PathValidator.java
+2026.01.23 19:10:08 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/services/PathValidator.java. Output:
+
+2026.01.23 19:10:08 WARN  no build target for: C:\Projects\TrackOS\src\services\SlotAllocator.java
+2026.01.23 19:10:08 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/services/SlotAllocator.java. Output:
+
+2026.01.23 19:10:08 INFO  no build target found for C:\Projects\TrackOS\src\services\SlotAllocator.java. Using fallback presentation compiler.
+2026.01.23 19:10:17 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:10:17 WARN  no build target for: C:\Projects\TrackOS\src\services\DelayHandler.java
+2026.01.23 19:10:17 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:10:19 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:10:19 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:10:19 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:10:19 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:10:21 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.01.23 19:10:22 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.01.23 19:10:24 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:10:24 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:10:25 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:10:25 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:10:25 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:10:27 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:10:27 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:10:27 WARN  no build target for: C:\Projects\TrackOS\src\services\DelayHandler.java
+2026.01.23 19:10:27 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:10:27 INFO  Created report: Optional[file:///C:/Projects/TrackOS/src/services/DelayHandler.java]
+2026.01.23 19:10:27 INFO  QDox parse error in file:///C:/Projects/TrackOS/src/services/DelayHandler.java (full report at: "C:\Projects\TrackOS\.metals\.reports\metals-full\2026-01-23\r_qdox-error_19-10-27-532.md")
+2026.01.23 19:10:27 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/services/DelayHandler.java. Output:
+
+2026.01.23 19:10:27 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:10:27 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:10:27 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:10:27 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:10:28 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:10:28 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:10:28 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:10:28 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:10:28 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:10:29 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:10:29 WARN  no build target for: C:\Projects\TrackOS\src\services\DelayHandler.java
+2026.01.23 19:10:29 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:10:29 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/services/DelayHandler.java. Output:
+
+2026.01.23 19:10:31 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:10:31 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:10:31 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:10:31 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:10:32 WARN  no build target for: C:\Projects\TrackOS\src\services\DelayHandler.java
+2026.01.23 19:10:32 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:10:32 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/services/DelayHandler.java. Output:
+
+2026.01.23 19:10:33 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:10:33 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:10:33 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:10:33 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:10:34 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:10:34 WARN  no build target for: C:\Projects\TrackOS\src\services\DelayHandler.java
+2026.01.23 19:10:34 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:10:33 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/services/DelayHandler.java. Output:
+
+2026.01.23 19:10:35 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:10:36 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:10:36 INFO  no build target found for C:\Projects\TrackOS\src\services\SlotAllocator.java. Using fallback presentation compiler.
+2026.01.23 19:10:36 WARN  no build target for: C:\Projects\TrackOS\src\services\SlotAllocator.java
+2026.01.23 19:10:37 INFO  no build target found for C:\Projects\TrackOS\src\services\SlotAllocator.java. Using fallback presentation compiler.
+2026.01.23 19:10:38 INFO  no build target found for C:\Projects\TrackOS\src\services\SlotAllocator.java. Using fallback presentation compiler.
+2026.01.23 19:10:38 INFO  no build target found for C:\Projects\TrackOS\src\services\SlotAllocator.java. Using fallback presentation compiler.
+2026.01.23 19:10:40 INFO  no build target found for C:\Projects\TrackOS\src\services\SlotAllocator.java. Using fallback presentation compiler.
+2026.01.23 19:10:40 INFO  no build target found for C:\Projects\TrackOS\src\services\SlotAllocator.java. Using fallback presentation compiler.
+2026.01.23 19:10:40 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/services/SlotAllocator.java. Output:
+
+2026.01.23 19:10:41 INFO  no build target found for C:\Projects\TrackOS\src\services\SlotAllocator.java. Using fallback presentation compiler.
+2026.01.23 19:10:41 INFO  no build target found for C:\Projects\TrackOS\src\services\SlotAllocator.java. Using fallback presentation compiler.
+2026.01.23 19:10:41 WARN  no build target for: C:\Projects\TrackOS\src\services\SlotAllocator.java
+2026.01.23 19:10:41 INFO  no build target found for C:\Projects\TrackOS\src\services\SlotAllocator.java. Using fallback presentation compiler.
+2026.01.23 19:10:43 INFO  no build target found for C:\Projects\TrackOS\src\services\PathValidator.java. Using fallback presentation compiler.
+2026.01.23 19:10:43 WARN  no build target for: C:\Projects\TrackOS\src\services\PathValidator.java
+2026.01.23 19:10:43 INFO  no build target found for C:\Projects\TrackOS\src\services\PathValidator.java. Using fallback presentation compiler.
+2026.01.23 19:10:43 INFO  no build target found for C:\Projects\TrackOS\src\services\PathValidator.java. Using fallback presentation compiler.
+2026.01.23 19:10:43 INFO  no build target found for C:\Projects\TrackOS\src\services\PathValidator.java. Using fallback presentation compiler.
+2026.01.23 19:10:44 INFO  no build target found for C:\Projects\TrackOS\src\services\PathValidator.java. Using fallback presentation compiler.
+2026.01.23 19:10:44 INFO  no build target found for C:\Projects\TrackOS\src\services\PathValidator.java. Using fallback presentation compiler.
+2026.01.23 19:10:45 INFO  no build target found for C:\Projects\TrackOS\src\services\PathValidator.java. Using fallback presentation compiler.
+2026.01.23 19:10:45 INFO  no build target found for C:\Projects\TrackOS\src\services\PathValidator.java. Using fallback presentation compiler.
+2026.01.23 19:10:45 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/services/PathValidator.java. Output:
+
+2026.01.23 19:10:45 INFO  no build target found for C:\Projects\TrackOS\src\services\PathValidator.java. Using fallback presentation compiler.
+2026.01.23 19:10:45 INFO  no build target found for C:\Projects\TrackOS\src\services\PathValidator.java. Using fallback presentation compiler.
+2026.01.23 19:10:45 INFO  no build target found for C:\Projects\TrackOS\src\services\PathValidator.java. Using fallback presentation compiler.
+2026.01.23 19:10:45 INFO  no build target found for C:\Projects\TrackOS\src\services\PriorityResolver.java. Using fallback presentation compiler.
+2026.01.23 19:10:46 WARN  no build target for: C:\Projects\TrackOS\src\services\PriorityResolver.java
+2026.01.23 19:10:46 INFO  no build target found for C:\Projects\TrackOS\src\services\PriorityResolver.java. Using fallback presentation compiler.
+2026.01.23 19:10:46 WARN  no build target for: C:\Projects\TrackOS\src\services\PathValidator.java
+2026.01.23 19:10:46 INFO  no build target found for C:\Projects\TrackOS\src\services\PriorityResolver.java. Using fallback presentation compiler.
+2026.01.23 19:10:47 INFO  no build target found for C:\Projects\TrackOS\src\services\PriorityResolver.java. Using fallback presentation compiler.
+2026.01.23 19:10:47 INFO  no build target found for C:\Projects\TrackOS\src\services\PriorityResolver.java. Using fallback presentation compiler.
+2026.01.23 19:10:47 INFO  no build target found for C:\Projects\TrackOS\src\services\PriorityResolver.java. Using fallback presentation compiler.
+2026.01.23 19:10:48 INFO  no build target found for C:\Projects\TrackOS\src\services\PriorityResolver.java. Using fallback presentation compiler.
+2026.01.23 19:10:48 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/services/PriorityResolver.java. Output:
+
+2026.01.23 19:10:48 INFO  no build target found for C:\Projects\TrackOS\src\services\PriorityResolver.java. Using fallback presentation compiler.
+2026.01.23 19:10:48 INFO  no build target found for C:\Projects\TrackOS\src\services\PriorityResolver.java. Using fallback presentation compiler.
+2026.01.23 19:10:48 INFO  no build target found for C:\Projects\TrackOS\src\services\PriorityResolver.java. Using fallback presentation compiler.
+2026.01.23 19:10:48 INFO  no build target found for C:\Projects\TrackOS\src\services\PriorityResolver.java. Using fallback presentation compiler.
+2026.01.23 19:10:48 INFO  no build target found for C:\Projects\TrackOS\src\services\Rescheduler.java. Using fallback presentation compiler.
+2026.01.23 19:10:49 WARN  no build target for: C:\Projects\TrackOS\src\services\Rescheduler.java
+2026.01.23 19:10:49 INFO  no build target found for C:\Projects\TrackOS\src\services\Rescheduler.java. Using fallback presentation compiler.
+2026.01.23 19:10:49 WARN  no build target for: C:\Projects\TrackOS\src\services\PriorityResolver.java
+2026.01.23 19:10:49 INFO  no build target found for C:\Projects\TrackOS\src\services\Rescheduler.java. Using fallback presentation compiler.
+2026.01.23 19:10:50 INFO  no build target found for C:\Projects\TrackOS\src\services\Rescheduler.java. Using fallback presentation compiler.
+2026.01.23 19:10:50 INFO  no build target found for C:\Projects\TrackOS\src\services\Rescheduler.java. Using fallback presentation compiler.
+2026.01.23 19:10:50 INFO  no build target found for C:\Projects\TrackOS\src\services\Rescheduler.java. Using fallback presentation compiler.
+2026.01.23 19:10:51 INFO  no build target found for C:\Projects\TrackOS\src\services\Rescheduler.java. Using fallback presentation compiler.
+2026.01.23 19:10:51 INFO  no build target found for C:\Projects\TrackOS\src\services\Rescheduler.java. Using fallback presentation compiler.
+2026.01.23 19:10:51 INFO  no build target found for C:\Projects\TrackOS\src\services\Rescheduler.java. Using fallback presentation compiler.
+2026.01.23 19:10:52 INFO  no build target found for C:\Projects\TrackOS\src\services\Rescheduler.java. Using fallback presentation compiler.
+2026.01.23 19:10:53 WARN  no build target for: C:\Projects\TrackOS\src\services\Rescheduler.java
+2026.01.23 19:10:53 INFO  no build target found for C:\Projects\TrackOS\src\services\Rescheduler.java. Using fallback presentation compiler.
+2026.01.23 19:10:53 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/services/Rescheduler.java. Output:
+

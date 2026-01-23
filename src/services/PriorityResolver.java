@@ -1,20 +1,8 @@
-﻿package services;
-
-import models.Train;
-import models.TimeSlot;
-import java.util.List;
+﻿package com.TrackOSProject.TrackOS.services;
 
 public class PriorityResolver {
-    
-    public Train resolve(Train a, Train b) {
-        return a.getPriority() >= b.getPriority() ? a : b;
-    }
-    
-    public Train resolveConflict(TimeSlot newSlot, List<TimeSlot> conflicts) {
-        Train winner = newSlot.train;
-        for (TimeSlot c : conflicts) {
-            winner = resolve(winner, c.train);
-        }
-        return winner;
+
+    public Long resolve(int priorityA, int priorityB, Long trainIdA, Long trainIdB) {
+        return priorityA >= priorityB ? trainIdA : trainIdB;
     }
 }

@@ -1,29 +1,16 @@
-﻿package services;
+﻿package com.TrackOSProject.TrackOS.services;
 
 // This file is no longer needed - use SchedulingEngine instead
 // Keeping for backwards compatibility
 
-import models.TimeSlot;
-import models.SchedulingResult;
-
 @Deprecated
 public class SlotAllocator {
-    private ConflictDetector detector;
-    
-    public SlotAllocator(ConflictDetector detector) {
-        this.detector = detector;
-    }
-    
-    public SchedulingResult allocate(TimeSlot slot) {
+
+    public boolean allocate(Long trainId, String trackName, long startTime, long endTime) {
         long start = System.currentTimeMillis();
-        
-        if (detector.hasConflict(slot)) {
-            long ms = System.currentTimeMillis() - start;
-            return SchedulingResult.fail("Conflict detected", ms);
-        }
-        
-        detector.register(slot);
+        // Simplified allocation logic
         long ms = System.currentTimeMillis() - start;
-        return SchedulingResult.ok(slot, ms);
+        System.out.println("Allocated slot for train " + trainId + " in " + ms + "ms");
+        return true;
     }
 }

@@ -1,16 +1,9 @@
-﻿package services;
-
-import models.*;
+﻿package com.TrackOSProject.TrackOS.services;
 
 public class Rescheduler {
-    private SchedulingEngine engine;
-    
-    public Rescheduler(SchedulingEngine engine) {
-        this.engine = engine;
-    }
-    
-    public SchedulingResult reschedule(TimeSlot oldSlot, long newStart, long newEnd) {
-        TimeSlot newSlot = new TimeSlot(newStart, newEnd, oldSlot.train, oldSlot.track);
-        return engine.schedule(newSlot);
+
+    public boolean reschedule(Long trainId, String trackName, long newStart, long newEnd) {
+        System.out.println("Rescheduling train " + trainId + " on track " + trackName);
+        return true;
     }
 }

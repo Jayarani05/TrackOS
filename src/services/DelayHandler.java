@@ -1,13 +1,8 @@
-﻿package services;
-
-import events.DelayEvent;
-import models.Train;
+﻿package com.TrackOSProject.TrackOS.services;
 
 public class DelayHandler {
-    
-    public void handleDelay(DelayEvent event) {
-        Train t = event.train;
-        t.delayMinutes += event.delayMinutes;
-        System.out.println(t.name + " delayed by " + event.delayMinutes + " min");
+
+    public void handleDelay(Long trainId, int delayMinutes) {
+        System.out.println("Train " + trainId + " delayed by " + delayMinutes + " min");
     }
 }

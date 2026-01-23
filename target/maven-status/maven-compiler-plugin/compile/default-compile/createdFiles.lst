@@ -6,6 +6,7 @@ com\TrackOSProject\TrackOS\DTO\Response\ApiResponse.class
 com\TrackOSProject\TrackOS\DTO\Request\RouteRequest.class
 com\TrackOSProject\TrackOS\DTO\Response\SlotResponse$ConflictInfo.class
 com\TrackOSProject\TrackOS\controller\AllocationController.class
+com\TrackOSProject\TrackOS\controller\ObservabilityController.class
 com\TrackOSProject\TrackOS\DTO\Request\TrainRequest.class
 com\TrackOSProject\TrackOS\Entity\Allocation.class
 com\TrackOSProject\TrackOS\DTO\Request\SlotRequest.class
