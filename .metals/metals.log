@@ -192,3 +192,739 @@ WARNING: Unmatched cancel notification for request id 6
 2026.01.23 18:14:05 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\DTO\Request\TrainRequest.java. Using fallback presentation compiler.
 2026.01.23 18:14:10 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
 2026.01.23 18:14:10 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.01.23 18:14:32 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\DTO\Request\TrainRequest.java
+2026.01.23 18:14:32 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\DTO\Request\TrainRequest.java. Using fallback presentation compiler.
+2026.01.23 18:14:37 INFO  no build target found for C:\Projects\TrackOS\src\datastructures\CapacityTracker.java. Using fallback presentation compiler.
+2026.01.23 18:14:37 INFO  no build target found for C:\Projects\TrackOS\src\datastructures\CapacityTracker.java. Using fallback presentation compiler.
+2026.01.23 18:14:37 INFO  no build target found for C:\Projects\TrackOS\src\datastructures\CapacityTracker.java. Using fallback presentation compiler.
+2026.01.23 18:14:39 INFO  no build target found for C:\Projects\TrackOS\src\datastructures\CapacityTracker.java. Using fallback presentation compiler.
+2026.01.23 18:16:54 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.01.23 18:17:07 INFO  no build target found for C:\Projects\TrackOS\src\datastructures\CapacityTracker.java. Using fallback presentation compiler.
+2026.01.23 18:18:20 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\DTO\Request\TrainRequest.java. Using fallback presentation compiler.
+2026.01.23 18:18:20 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\DTO\Request\TrainRequest.java
+2026.01.23 18:18:20 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\DTO\Request\TrainRequest.java. Using fallback presentation compiler.
+2026.01.23 18:18:20 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\DTO\Request\TrainRequest.java. Using fallback presentation compiler.
+2026.01.23 18:19:11 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\DTO\Request\TrainRequest.java. Using fallback presentation compiler.
+2026.01.23 18:21:31 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\DTO\Request\TrainRequest.java. Using fallback presentation compiler.
+2026.01.23 18:21:31 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.01.23 18:21:31 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.01.23 18:21:32 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\DTO\Request\TrainRequest.java. Using fallback presentation compiler.
+2026.01.23 18:21:32 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.01.23 18:21:31 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.01.23 18:21:42 INFO  no build target found for C:\Projects\TrackOS\src\test\java\com\TrackOS\TrackOS\TrackOsApplicationTests.java. Using fallback presentation compiler.
+2026.01.23 18:21:42 WARN  no build target for: C:\Projects\TrackOS\src\test\java\com\TrackOS\TrackOS\TrackOsApplicationTests.java
+2026.01.23 18:21:42 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\DTO\Request\TrainRequest.java. Using fallback presentation compiler.
+2026.01.23 18:21:44 INFO  no build target found for C:\Projects\TrackOS\src\test\java\com\TrackOS\TrackOS\TrackOsApplicationTests.java. Using fallback presentation compiler.
+2026.01.23 18:21:44 WARN  no build target for: C:\Projects\TrackOS\src\test\java\com\TrackOS\TrackOS\TrackOsApplicationTests.java
+2026.01.23 18:21:44 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\DTO\Request\TrainRequest.java. Using fallback presentation compiler.
+2026.01.23 18:21:49 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\DTO\Request\TrainRequest.java. Using fallback presentation compiler.
+2026.01.23 18:21:49 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\DTO\Request\TrainRequest.java. Using fallback presentation compiler.
+2026.01.23 18:21:49 INFO  no build target found for C:\Projects\TrackOS\src\test\java\com\TrackOS\TrackOS\TrackOsApplicationTests.java. Using fallback presentation compiler.
+2026.01.23 18:21:49 INFO  no build target found for C:\Projects\TrackOS\src\test\java\com\TrackOS\TrackOS\TrackOsApplicationTests.java. Using fallback presentation compiler.
+2026.01.23 18:21:49 INFO  no build target found for C:\Projects\TrackOS\src\test\java\com\TrackOS\TrackOS\TrackOsApplicationTests.java. Using fallback presentation compiler.
+2026.01.23 18:21:49 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.01.23 18:21:49 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.01.23 18:21:49 INFO  Created report: Optional[file:///C:/Projects/TrackOS/src/test/java/com/TrackOS/TrackOS/TrackOsApplicationTests.java]
+2026.01.23 18:21:49 INFO  empty definition using pc, found symbol in pc: org/springframework/boot/test/context/SpringBootTest# (full report at: "C:\Projects\TrackOS\.metals\.reports\metals-full\2026-01-23\r_empty-definition_18-21-50-354.md")
+2026.01.23 18:21:50 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.01.23 18:21:51 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:21:52 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:21:51 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.01.23 18:21:51 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:21:51 INFO  no build target found for /org/springframework/boot/test/context/SpringBootTest.java. Using fallback presentation compiler.
+2026.01.23 18:21:53 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:21:53 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:21:53 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:21:54 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:21:54 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:21:56 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:22:00 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:22:00 INFO  no build target found for C:\Projects\TrackOS\src\test\java\com\TrackOS\TrackOS\TrackOsApplicationTests.java. Using fallback presentation compiler.
+2026.01.23 18:22:00 WARN  no build target for: C:\Projects\TrackOS\src\test\java\com\TrackOS\TrackOS\TrackOsApplicationTests.java
+2026.01.23 18:22:00 INFO  no build target found for C:\Projects\TrackOS\src\test\java\com\TrackOS\TrackOS\TrackOsApplicationTests.java. Using fallback presentation compiler.
+2026.01.23 18:22:00 INFO  no build target found for C:\Projects\TrackOS\src\test\java\com\TrackOS\TrackOS\TrackOsApplicationTests.java. Using fallback presentation compiler.
+2026.01.23 18:22:09 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\DTO\Request\TrainRequest.java. Using fallback presentation compiler.
+2026.01.23 18:22:09 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\DTO\Request\TrainRequest.java
+2026.01.23 18:22:09 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\DTO\Request\TrainRequest.java. Using fallback presentation compiler.
+2026.01.23 18:22:12 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:22:12 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:22:12 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:22:13 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:22:13 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:22:14 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:22:14 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:22:18 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:23:03 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:23:03 INFO  no build target found for C:\Projects\TrackOS\src\demo\SampleNetwork.java. Using fallback presentation compiler.
+2026.01.23 18:23:03 INFO  no build target found for C:\Projects\TrackOS\src\demo\SampleNetwork.java. Using fallback presentation compiler.
+2026.01.23 18:23:04 INFO  no build target found for C:\Projects\TrackOS\src\demo\SampleNetwork.java. Using fallback presentation compiler.
+2026.01.23 18:23:04 INFO  no build target found for C:\Projects\TrackOS\src\demo\SampleNetwork.java. Using fallback presentation compiler.
+2026.01.23 18:23:04 INFO  no build target found for C:\Projects\TrackOS\src\demo\SampleNetwork.java. Using fallback presentation compiler.
+2026.01.23 18:23:15 INFO  no build target found for c:\Projects\TrackOS\src\demo\SampleNetwork.java. Using fallback presentation compiler.
+2026.01.23 18:23:15 INFO  no build target found for c:\Projects\TrackOS\src\demo\TestData.java. Using fallback presentation compiler.
+2026.01.23 18:23:15 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\DTO\Request\TrainRequest.java. Using fallback presentation compiler.
+2026.01.23 18:23:15 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\DTO\Request\TrainRequest.java
+2026.01.23 18:23:15 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\DTO\Request\TrainRequest.java. Using fallback presentation compiler.
+2026.01.23 18:23:15 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\DTO\Request\TrainRequest.java. Using fallback presentation compiler.
+2026.01.23 18:23:21 INFO  no build target found for c:\Projects\TrackOS\src\test\java\com\TrackOS\TrackOS\TrackOsApplicationTests.java. Using fallback presentation compiler.
+2026.01.23 18:23:21 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.01.23 18:23:21 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.01.23 18:23:21 INFO  Created report: Optional[file:///c:/Projects/TrackOS/src/test/java/com/TrackOS/TrackOS/TrackOsApplicationTests.java]
+2026.01.23 18:23:21 INFO  empty definition using pc, found symbol in pc: com/TrackOSProject/TrackOS/TrackOsApplication# (full report at: "C:\Projects\TrackOS\.metals\.reports\metals-full\2026-01-23\r_empty-definition_18-23-21-220.md")
+2026.01.23 18:23:22 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:23:22 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:23:22 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:23:24 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:23:25 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:23:26 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:23:26 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:23:26 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:23:27 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:23:28 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:23:28 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:23:29 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:23:29 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:23:31 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:23:31 WARN  no build target for: C:\Projects\TrackOS\src\Main.java
+2026.01.23 18:23:31 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:23:31 INFO  Created report: Optional[file:///C:/Projects/TrackOS/src/Main.java]
+2026.01.23 18:23:31 INFO  QDox parse error in file:///C:/Projects/TrackOS/src/Main.java (full report at: "C:\Projects\TrackOS\.metals\.reports\metals-full\2026-01-23\r_qdox-error_18-23-31-817.md")
+2026.01.23 18:23:31 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/Main.java. Output:
+
+2026.01.23 18:23:33 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:23:33 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:23:33 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:23:33 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:23:34 WARN  no build target for: C:\Projects\TrackOS\src\Main.java
+2026.01.23 18:23:34 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:23:34 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/Main.java. Output:
+
+2026.01.23 18:23:43 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:23:44 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:23:45 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:24:18 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:24:20 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:24:20 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:24:20 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:24:22 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:24:22 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:25:09 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:25:09 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:25:38 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:25:40 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:25:40 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:25:41 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:25:41 WARN  no build target for: C:\Projects\TrackOS\src\Main.java
+2026.01.23 18:25:41 INFO  QDox parse error in file:///C:/Projects/TrackOS/src/Main.java (full report at: "C:\Projects\TrackOS\.metals\.reports\metals-full\2026-01-23\r_qdox-error_18-23-31-817.md")
+2026.01.23 18:25:41 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:25:41 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/Main.java. Output:
+
+2026.01.23 18:25:47 INFO  no build target found for c:\Projects\TrackOS\src\test\java\com\TrackOS\TrackOS\TrackOsApplicationTests.java. Using fallback presentation compiler.
+2026.01.23 18:27:06 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\TrackOsApplication.java. Using fallback presentation compiler.
+2026.01.23 18:27:57 INFO  no build target found for c:\Projects\TrackOS\src\datastructures\RailNetwork.java. Using fallback presentation compiler.
+2026.01.23 18:28:03 INFO  no build target found for C:\Projects\TrackOS\src\observability\GCMonitor.java. Using fallback presentation compiler.
+2026.01.23 18:28:03 INFO  no build target found for C:\Projects\TrackOS\src\observability\GCMonitor.java. Using fallback presentation compiler.
+2026.01.23 18:28:03 INFO  no build target found for C:\Projects\TrackOS\src\observability\GCMonitor.java. Using fallback presentation compiler.
+2026.01.23 18:28:04 INFO  no build target found for C:\Projects\TrackOS\src\observability\GCMonitor.java. Using fallback presentation compiler.
+2026.01.23 18:28:04 INFO  no build target found for C:\Projects\TrackOS\src\observability\GCMonitor.java. Using fallback presentation compiler.
+2026.01.23 18:28:09 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/services/SchedulingEngine.java. Output:
+
+2026.01.23 18:28:09 INFO  no build target found for C:\Projects\TrackOS\src\services\SchedulingEngine.java. Using fallback presentation compiler.
+2026.01.23 18:28:11 INFO  no build target found for C:\Projects\TrackOS\src\observability\GCMonitor.java. Using fallback presentation compiler.
+2026.01.23 18:28:11 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:28:11 WARN  no build target for: C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java
+2026.01.23 18:28:11 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:28:12 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:28:12 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:28:12 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:28:12 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:28:13 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:28:18 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/services/ConflictDetector.java. Output:
+
+2026.01.23 18:28:18 INFO  no build target found for C:\Projects\TrackOS\src\services\ConflictDetector.java. Using fallback presentation compiler.
+2026.01.23 18:28:18 INFO  no build target found for C:\Projects\TrackOS\src\services\SchedulingEngine.java. Using fallback presentation compiler.
+2026.01.23 18:28:19 WARN  no build target for: C:\Projects\TrackOS\src\Main.java
+2026.01.23 18:28:19 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:28:35 INFO  no build target found for C:\Projects\TrackOS\src\services\ConflictDetector.java. Using fallback presentation compiler.
+2026.01.23 18:28:35 INFO  no build target found for C:\Projects\TrackOS\src\services\ConflictDetector.java. Using fallback presentation compiler.
+2026.01.23 18:28:35 INFO  no build target found for C:\Projects\TrackOS\src\services\SchedulingEngine.java. Using fallback presentation compiler.
+2026.01.23 18:28:35 INFO  no build target found for C:\Projects\TrackOS\src\services\SchedulingEngine.java. Using fallback presentation compiler.
+2026.01.23 18:29:02 WARN  no build target for: C:\Projects\TrackOS\src\Main.java
+2026.01.23 18:29:02 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:29:04 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/events/TrainEvent.java. Output:
+
+2026.01.23 18:29:04 INFO  no build target found for C:\Projects\TrackOS\src\events\TrainEvent.java. Using fallback presentation compiler.
+2026.01.23 18:29:04 INFO  no build target found for C:\Projects\TrackOS\src\services\ConflictDetector.java. Using fallback presentation compiler.
+2026.01.23 18:29:04 INFO  no build target found for C:\Projects\TrackOS\src\services\SchedulingEngine.java. Using fallback presentation compiler.
+2026.01.23 18:29:07 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:29:07 WARN  no build target for: C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java
+2026.01.23 18:29:07 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:29:07 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:29:07 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:29:37 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:29:37 WARN  no build target for: C:\Projects\TrackOS\src\Main.java
+2026.01.23 18:29:37 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:29:37 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/Main.java. Output:
+
+2026.01.23 18:29:43 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/events/EventBus.java. Output:
+
+2026.01.23 18:29:43 INFO  no build target found for C:\Projects\TrackOS\src\events\EventBus.java. Using fallback presentation compiler.
+2026.01.23 18:29:43 INFO  no build target found for C:\Projects\TrackOS\src\events\TrainEvent.java. Using fallback presentation compiler.
+2026.01.23 18:29:43 INFO  no build target found for C:\Projects\TrackOS\src\events\TrainEvent.java. Using fallback presentation compiler.
+2026.01.23 18:29:43 INFO  Created report: Optional[file:///C:/Projects/TrackOS/src/events/TrainEvent.java]
+2026.01.23 18:29:43 INFO  empty definition using pc, found symbol in pc: models/Station# (full report at: "C:\Projects\TrackOS\.metals\.reports\metals-full\2026-01-23\r_empty-definition_18-29-43-519.md")
+2026.01.23 18:29:43 INFO  no build target found for C:\Projects\TrackOS\src\services\ConflictDetector.java. Using fallback presentation compiler.
+2026.01.23 18:29:43 INFO  Created report: Optional[file:///C:/Projects/TrackOS/src/events/TrainEvent.java]
+2026.01.23 18:29:43 INFO  empty definition using pc, found symbol in pc: models/Train# (full report at: "C:\Projects\TrackOS\.metals\.reports\metals-full\2026-01-23\r_empty-definition_18-29-43-548.md")
+2026.01.23 18:29:43 INFO  no build target found for C:\Projects\TrackOS\src\services\SchedulingEngine.java. Using fallback presentation compiler.
+2026.01.23 18:29:43 INFO  Created report: Optional[file:///C:/Projects/TrackOS/src/services/ConflictDetector.java]
+2026.01.23 18:29:43 INFO  empty definition using pc, found symbol in pc: models/TimeSlot# (full report at: "C:\Projects\TrackOS\.metals\.reports\metals-full\2026-01-23\r_empty-definition_18-29-43-571.md")
+2026.01.23 18:29:43 INFO  no build target found for C:\Projects\TrackOS\src\events\TrainEvent.java. Using fallback presentation compiler.
+2026.01.23 18:29:43 INFO  Created report: Optional[file:///C:/Projects/TrackOS/src/services/SchedulingEngine.java]
+2026.01.23 18:29:43 INFO  empty definition using pc, found symbol in pc: _empty_/SchedulingResult# (full report at: "C:\Projects\TrackOS\.metals\.reports\metals-full\2026-01-23\r_empty-definition_18-29-43-599.md")
+2026.01.23 18:29:43 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/observability/GCMonitor.java. Output:
+
+2026.01.23 18:29:43 INFO  no build target found for C:\Projects\TrackOS\src\observability\GCMonitor.java. Using fallback presentation compiler.
+2026.01.23 18:29:43 INFO  no build target found for C:\Projects\TrackOS\src\services\ConflictDetector.java. Using fallback presentation compiler.
+2026.01.23 18:29:43 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/observability/LatencyTracker.java. Output:
+
+2026.01.23 18:29:43 INFO  no build target found for C:\Projects\TrackOS\src\observability\LatencyTracker.java. Using fallback presentation compiler.
+2026.01.23 18:29:43 INFO  no build target found for C:\Projects\TrackOS\src\services\SchedulingEngine.java. Using fallback presentation compiler.
+2026.01.23 18:29:44 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/observability/MemoryMonitor.java. Output:
+
+2026.01.23 18:29:43 INFO  no build target found for C:\Projects\TrackOS\src\observability\MemoryMonitor.java. Using fallback presentation compiler.
+2026.01.23 18:29:44 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/observability/RuntimeAnalyzer.java. Output:
+
+2026.01.23 18:29:44 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:29:44 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/observability/ThreadMonitor.java. Output:
+
+2026.01.23 18:29:44 INFO  no build target found for C:\Projects\TrackOS\src\observability\ThreadMonitor.java. Using fallback presentation compiler.
+2026.01.23 18:29:44 INFO  no build target found for C:\Projects\TrackOS\src\observability\GCMonitor.java. Using fallback presentation compiler.
+2026.01.23 18:29:44 INFO  no build target found for C:\Projects\TrackOS\src\observability\MemoryMonitor.java. Using fallback presentation compiler.
+2026.01.23 18:29:44 INFO  no build target found for C:\Projects\TrackOS\src\observability\LatencyTracker.java. Using fallback presentation compiler.
+2026.01.23 18:29:44 INFO  no build target found for C:\Projects\TrackOS\src\observability\ThreadMonitor.java. Using fallback presentation compiler.
+2026.01.23 18:29:44 INFO  no build target found for C:\Projects\TrackOS\src\services\ConflictDetector.java. Using fallback presentation compiler.
+2026.01.23 18:29:44 INFO  no build target found for C:\Projects\TrackOS\src\services\SchedulingEngine.java. Using fallback presentation compiler.
+2026.01.23 18:29:46 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/util/Printer.java. Output:
+
+2026.01.23 18:29:46 INFO  no build target found for C:\Projects\TrackOS\src\util\Printer.java. Using fallback presentation compiler.
+2026.01.23 18:30:08 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:30:08 WARN  no build target for: C:\Projects\TrackOS\src\Main.java
+2026.01.23 18:30:08 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:30:08 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:30:08 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:30:10 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:30:10 WARN  no build target for: C:\Projects\TrackOS\src\Main.java
+2026.01.23 18:30:10 INFO  QDox parse error in file:///C:/Projects/TrackOS/src/Main.java (full report at: "C:\Projects\TrackOS\.metals\.reports\metals-full\2026-01-23\r_qdox-error_18-23-31-817.md")
+2026.01.23 18:30:10 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/Main.java. Output:
+
+2026.01.23 18:30:10 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:30:12 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:30:12 WARN  no build target for: C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java
+2026.01.23 18:30:12 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:30:12 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:30:12 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:30:13 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:30:30 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\TrackOsApplication.java. Using fallback presentation compiler.
+2026.01.23 18:30:42 INFO  no build target found for C:\Projects\TrackOS\src\services\SchedulingEngine.java. Using fallback presentation compiler.
+2026.01.23 18:30:42 INFO  no build target found for C:\Projects\TrackOS\src\util\Printer.java. Using fallback presentation compiler.
+2026.01.23 18:31:11 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.01.23 18:31:11 INFO  no build target found for C:\Projects\TrackOS\src\services\ConflictDetector.java. Using fallback presentation compiler.
+2026.01.23 18:31:22 INFO  no build target found for C:\Projects\TrackOS\src\observability\MemoryMonitor.java. Using fallback presentation compiler.
+2026.01.23 18:31:22 INFO  no build target found for C:\Projects\TrackOS\src\observability\LatencyTracker.java. Using fallback presentation compiler.
+2026.01.23 18:31:51 INFO  no build target found for C:\Projects\TrackOS\src\events\EventBus.java. Using fallback presentation compiler.
+2026.01.23 18:31:51 INFO  no build target found for C:\Projects\TrackOS\src\observability\ThreadMonitor.java. Using fallback presentation compiler.
+2026.01.23 18:31:51 INFO  no build target found for C:\Projects\TrackOS\src\observability\GCMonitor.java. Using fallback presentation compiler.
+2026.01.23 18:31:57 INFO  no build target found for C:\Projects\TrackOS\src\events\TrainEvent.java. Using fallback presentation compiler.
+2026.01.23 18:50:52 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:50:55 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:50:55 INFO  no build target found for C:\Projects\TrackOS\src\observability\MemoryMonitor.java. Using fallback presentation compiler.
+2026.01.23 18:50:55 INFO  no build target found for C:\Projects\TrackOS\src\observability\MemoryMonitor.java. Using fallback presentation compiler.
+2026.01.23 18:50:55 INFO  no build target found for C:\Projects\TrackOS\src\observability\MemoryMonitor.java. Using fallback presentation compiler.
+2026.01.23 18:50:56 INFO  no build target found for C:\Projects\TrackOS\src\observability\MemoryMonitor.java. Using fallback presentation compiler.
+2026.01.23 18:50:56 INFO  no build target found for C:\Projects\TrackOS\src\observability\MemoryMonitor.java. Using fallback presentation compiler.
+2026.01.23 18:51:01 INFO  no build target found for C:\Projects\TrackOS\src\observability\MemoryMonitor.java. Using fallback presentation compiler.
+2026.01.23 18:51:03 INFO  no build target found for C:\Projects\TrackOS\src\observability\MemoryMonitor.java. Using fallback presentation compiler.
+Jan 23, 2026 6:51:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 325
+2026.01.23 18:51:03 INFO  no build target found for C:\Projects\TrackOS\src\observability\MemoryMonitor.java. Using fallback presentation compiler.
+Jan 23, 2026 6:51:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 326
+2026.01.23 18:51:03 INFO  no build target found for C:\Projects\TrackOS\src\observability\MemoryMonitor.java. Using fallback presentation compiler.
+2026.01.23 18:51:05 INFO  no build target found for C:\Projects\TrackOS\src\observability\MemoryMonitor.java. Using fallback presentation compiler.
+2026.01.23 18:51:05 INFO  no build target found for C:\Projects\TrackOS\src\observability\MemoryMonitor.java. Using fallback presentation compiler.
+2026.01.23 18:51:09 INFO  no build target found for C:\Projects\TrackOS\src\observability\MemoryMonitor.java. Using fallback presentation compiler.
+2026.01.23 18:51:09 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:51:10 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:51:09 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:51:11 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:51:11 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:51:11 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:53:18 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:53:18 WARN  no build target for: C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java
+2026.01.23 18:53:18 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:53:18 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/observability/RuntimeAnalyzer.java. Output:
+
+2026.01.23 18:53:18 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:53:18 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:53:19 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:53:19 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:53:19 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:53:21 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:53:21 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:53:21 WARN  no build target for: C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java
+2026.01.23 18:53:21 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:53:21 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/observability/RuntimeAnalyzer.java. Output:
+
+2026.01.23 18:53:21 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:53:22 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:53:51 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:53:51 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:55:17 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\ObservabilityController.java. Using fallback presentation compiler.
+2026.01.23 18:55:17 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\ObservabilityController.java
+2026.01.23 18:55:17 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:55:18 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:55:19 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:55:19 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:55:21 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:55:29 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:55:29 WARN  no build target for: C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java
+2026.01.23 18:55:29 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:55:29 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/observability/RuntimeAnalyzer.java. Output:
+
+2026.01.23 18:55:29 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:55:29 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:55:30 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:55:32 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:55:44 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\ObservabilityController.java. Using fallback presentation compiler.
+2026.01.23 18:55:44 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\ObservabilityController.java
+2026.01.23 18:55:44 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\ObservabilityController.java. Using fallback presentation compiler.
+2026.01.23 18:55:44 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\ObservabilityController.java. Using fallback presentation compiler.
+2026.01.23 18:55:46 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\ObservabilityController.java. Using fallback presentation compiler.
+2026.01.23 18:55:53 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:55:53 WARN  no build target for: C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java
+2026.01.23 18:55:53 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:55:53 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:55:53 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\ObservabilityController.java
+2026.01.23 18:55:54 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:55:55 WARN  no build target for: C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java
+2026.01.23 18:55:55 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:55:57 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:55:57 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:55:57 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:55:57 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:56:10 INFO  no build target found for C:\Projects\TrackOS\src\services\ConflictDetector.java. Using fallback presentation compiler.
+2026.01.23 18:56:10 INFO  no build target found for C:\Projects\TrackOS\src\events\EventBus.java. Using fallback presentation compiler.
+2026.01.23 18:56:10 INFO  no build target found for C:\Projects\TrackOS\src\services\SchedulingEngine.java. Using fallback presentation compiler.
+2026.01.23 18:56:10 INFO  no build target found for C:\Projects\TrackOS\src\observability\GCMonitor.java. Using fallback presentation compiler.
+2026.01.23 18:56:10 INFO  no build target found for C:\Projects\TrackOS\src\observability\MemoryMonitor.java. Using fallback presentation compiler.
+2026.01.23 18:56:10 INFO  no build target found for C:\Projects\TrackOS\src\observability\LatencyTracker.java. Using fallback presentation compiler.
+2026.01.23 18:56:10 INFO  no build target found for C:\Projects\TrackOS\src\observability\ThreadMonitor.java. Using fallback presentation compiler.
+2026.01.23 18:56:10 INFO  no build target found for C:\Projects\TrackOS\src\events\TrainEvent.java. Using fallback presentation compiler.
+2026.01.23 18:56:24 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:56:24 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:56:24 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:56:25 INFO  no build target found for C:\Projects\TrackOS\src\observability\RuntimeAnalyzer.java. Using fallback presentation compiler.
+2026.01.23 18:56:40 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\ObservabilityController.java. Using fallback presentation compiler.
+2026.01.23 18:56:40 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\ObservabilityController.java
+2026.01.23 18:56:40 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\ObservabilityController.java. Using fallback presentation compiler.
+2026.01.23 18:56:48 INFO  no build target found for C:\Projects\TrackOS\src\services\ConflictDetector.java. Using fallback presentation compiler.
+2026.01.23 18:56:48 WARN  no build target for: C:\Projects\TrackOS\src\services\ConflictDetector.java
+2026.01.23 18:56:48 INFO  no build target found for C:\Projects\TrackOS\src\services\ConflictDetector.java. Using fallback presentation compiler.
+2026.01.23 18:56:48 INFO  no build target found for C:\Projects\TrackOS\src\services\ConflictDetector.java. Using fallback presentation compiler.
+2026.01.23 18:56:49 INFO  no build target found for C:\Projects\TrackOS\src\services\ConflictDetector.java. Using fallback presentation compiler.
+2026.01.23 18:56:51 INFO  no build target found for C:\Projects\TrackOS\src\services\ConflictDetector.java. Using fallback presentation compiler.
+2026.01.23 18:56:56 INFO  no build target found for c:\Projects\TrackOS\src\services\ConflictDetector.java. Using fallback presentation compiler.
+2026.01.23 18:56:56 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\ObservabilityController.java. Using fallback presentation compiler.
+2026.01.23 18:56:56 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\ObservabilityController.java
+2026.01.23 18:56:57 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\ObservabilityController.java. Using fallback presentation compiler.
+2026.01.23 18:57:01 INFO  no build target found for C:\Projects\TrackOS\src\services\SchedulingEngine.java. Using fallback presentation compiler.
+2026.01.23 18:57:01 WARN  no build target for: C:\Projects\TrackOS\src\services\SchedulingEngine.java
+2026.01.23 18:57:01 INFO  no build target found for C:\Projects\TrackOS\src\services\SchedulingEngine.java. Using fallback presentation compiler.
+2026.01.23 18:57:01 INFO  no build target found for C:\Projects\TrackOS\src\services\SchedulingEngine.java. Using fallback presentation compiler.
+2026.01.23 18:57:08 INFO  no build target found for c:\Projects\TrackOS\src\services\SchedulingEngine.java. Using fallback presentation compiler.
+2026.01.23 18:57:08 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\ObservabilityController.java. Using fallback presentation compiler.
+2026.01.23 18:57:08 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\ObservabilityController.java
+2026.01.23 18:57:08 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\ObservabilityController.java. Using fallback presentation compiler.
+2026.01.23 18:57:12 WARN  no build target for: C:\Projects\TrackOS\src\Main.java
+2026.01.23 18:57:12 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 18:57:51 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\controller\TrainController.java. Using fallback presentation compiler.
+2026.01.23 18:58:58 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\TrackOsApplication.java. Using fallback presentation compiler.
+2026.01.23 18:58:58 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\TrackOsApplication.java
+2026.01.23 18:58:58 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\TrackOsApplication.java. Using fallback presentation compiler.
+2026.01.23 18:58:58 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\TrackOsApplication.java. Using fallback presentation compiler.
+2026.01.23 18:59:06 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\TrackOsApplication.java. Using fallback presentation compiler.
+2026.01.23 18:59:08 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\TrackOsApplication.java. Using fallback presentation compiler.
+2026.01.23 18:59:08 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\TrackOsApplication.java. Using fallback presentation compiler.
+2026.01.23 18:59:14 INFO  no build target found for C:\Projects\TrackOS\src\events\EventBus.java. Using fallback presentation compiler.
+2026.01.23 18:59:14 INFO  no build target found for C:\Projects\TrackOS\src\observability\GCMonitor.java. Using fallback presentation compiler.
+2026.01.23 18:59:14 INFO  no build target found for C:\Projects\TrackOS\src\observability\MemoryMonitor.java. Using fallback presentation compiler.
+2026.01.23 18:59:14 INFO  no build target found for C:\Projects\TrackOS\src\observability\LatencyTracker.java. Using fallback presentation compiler.
+2026.01.23 18:59:14 INFO  no build target found for C:\Projects\TrackOS\src\events\TrainEvent.java. Using fallback presentation compiler.
+2026.01.23 18:59:14 INFO  no build target found for C:\Projects\TrackOS\src\observability\ThreadMonitor.java. Using fallback presentation compiler.
+2026.01.23 18:59:31 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/events/TrainEvent.java. Output:
+
+2026.01.23 18:59:31 INFO  no build target found for C:\Projects\TrackOS\src\events\TrainEvent.java. Using fallback presentation compiler.
+2026.01.23 18:59:31 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/services/SlotAllocator.java. Output:
+
+2026.01.23 18:59:31 INFO  no build target found for C:\Projects\TrackOS\src\services\SlotAllocator.java. Using fallback presentation compiler.
+2026.01.23 18:59:41 INFO  no build target found for C:\Projects\TrackOS\src\events\TrainEvent.java. Using fallback presentation compiler.
+2026.01.23 18:59:41 INFO  no build target found for C:\Projects\TrackOS\src\services\SlotAllocator.java. Using fallback presentation compiler.
+2026.01.23 18:59:53 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\TrackOsApplication.java. Using fallback presentation compiler.
+2026.01.23 18:59:54 INFO  no build target found for C:\Projects\TrackOS\src\events\TrainEvent.java. Using fallback presentation compiler.
+2026.01.23 18:59:54 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/services/PathValidator.java. Output:
+
+2026.01.23 18:59:54 INFO  no build target found for C:\Projects\TrackOS\src\services\PathValidator.java. Using fallback presentation compiler.
+2026.01.23 18:59:54 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/services/DelayHandler.java. Output:
+
+2026.01.23 18:59:54 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 18:59:54 INFO  no build target found for C:\Projects\TrackOS\src\services\PathValidator.java. Using fallback presentation compiler.
+2026.01.23 18:59:54 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/services/PriorityResolver.java. Output:
+
+2026.01.23 18:59:54 INFO  no build target found for C:\Projects\TrackOS\src\services\PriorityResolver.java. Using fallback presentation compiler.
+2026.01.23 18:59:54 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/services/Rescheduler.java. Output:
+
+2026.01.23 18:59:54 INFO  no build target found for C:\Projects\TrackOS\src\services\Rescheduler.java. Using fallback presentation compiler.
+2026.01.23 18:59:54 INFO  no build target found for C:\Projects\TrackOS\src\services\SlotAllocator.java. Using fallback presentation compiler.
+2026.01.23 18:59:54 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\TrackOsApplication.java. Using fallback presentation compiler.
+2026.01.23 18:59:57 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\TrackOsApplication.java. Using fallback presentation compiler.
+2026.01.23 19:00:06 INFO  no build target found for C:\Projects\TrackOS\src\services\Rescheduler.java. Using fallback presentation compiler.
+2026.01.23 19:00:07 WARN  no build target for: C:\Projects\TrackOS\src\services\Rescheduler.java
+2026.01.23 19:00:07 INFO  no build target found for C:\Projects\TrackOS\src\services\Rescheduler.java. Using fallback presentation compiler.
+2026.01.23 19:00:06 INFO  no build target found for C:\Projects\TrackOS\src\services\Rescheduler.java. Using fallback presentation compiler.
+2026.01.23 19:00:18 WARN  no build target for: C:\Projects\TrackOS\src\Main.java
+2026.01.23 19:00:18 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 19:00:23 INFO  no build target found for c:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 19:00:23 INFO  no build target found for C:\Projects\TrackOS\src\services\Rescheduler.java. Using fallback presentation compiler.
+2026.01.23 19:00:24 WARN  no build target for: C:\Projects\TrackOS\src\services\Rescheduler.java
+2026.01.23 19:00:24 INFO  no build target found for C:\Projects\TrackOS\src\services\Rescheduler.java. Using fallback presentation compiler.
+2026.01.23 19:00:23 INFO  no build target found for C:\Projects\TrackOS\src\services\Rescheduler.java. Using fallback presentation compiler.
+2026.01.23 19:00:31 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:00:31 WARN  no build target for: C:\Projects\TrackOS\src\services\DelayHandler.java
+2026.01.23 19:00:31 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:00:31 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:00:32 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:00:32 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:00:34 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:00:34 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:00:34 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:00:38 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:00:38 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:00:40 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:00:40 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:00:49 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 19:00:49 INFO  no build target found for C:\Projects\TrackOS\src\models\Train.java. Using fallback presentation compiler.
+2026.01.23 19:00:49 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 19:00:49 INFO  no build target found for C:\Projects\TrackOS\src\models\TrainType.java. Using fallback presentation compiler.
+2026.01.23 19:00:49 INFO  no build target found for C:\Projects\TrackOS\src\models\Train.java. Using fallback presentation compiler.
+2026.01.23 19:00:49 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 19:00:49 INFO  no build target found for C:\Projects\TrackOS\src\models\Station.java. Using fallback presentation compiler.
+2026.01.23 19:00:49 INFO  no build target found for C:\Projects\TrackOS\src\models\TrainType.java. Using fallback presentation compiler.
+2026.01.23 19:00:49 INFO  no build target found for C:\Projects\TrackOS\src\models\Train.java. Using fallback presentation compiler.
+2026.01.23 19:00:49 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 19:00:49 WARN  no build target for: C:\Projects\TrackOS\src\models\TrainType.java
+2026.01.23 19:00:49 INFO  no build target found for C:\Projects\TrackOS\src\models\Track.java. Using fallback presentation compiler.
+2026.01.23 19:00:49 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 19:00:49 INFO  no build target found for C:\Projects\TrackOS\src\models\Station.java. Using fallback presentation compiler.
+2026.01.23 19:00:49 INFO  no build target found for C:\Projects\TrackOS\src\models\Train.java. Using fallback presentation compiler.
+2026.01.23 19:00:49 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:00:49 INFO  no build target found for C:\Projects\TrackOS\src\models\TimeSlot.java. Using fallback presentation compiler.
+2026.01.23 19:00:49 INFO  no build target found for C:\Projects\TrackOS\src\models\Track.java. Using fallback presentation compiler.
+2026.01.23 19:00:49 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 19:00:49 INFO  no build target found for C:\Projects\TrackOS\src\models\Station.java. Using fallback presentation compiler.
+2026.01.23 19:00:49 INFO  no build target found for C:\Projects\TrackOS\src\models\Train.java. Using fallback presentation compiler.
+2026.01.23 19:00:49 INFO  no build target found for C:\Projects\TrackOS\src\models\SchedulingResult.java. Using fallback presentation compiler.
+2026.01.23 19:00:49 INFO  no build target found for C:\Projects\TrackOS\src\models\TimeSlot.java. Using fallback presentation compiler.
+2026.01.23 19:00:49 INFO  no build target found for C:\Projects\TrackOS\src\models\Track.java. Using fallback presentation compiler.
+2026.01.23 19:00:49 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 19:00:49 INFO  no build target found for C:\Projects\TrackOS\src\models\Station.java. Using fallback presentation compiler.
+2026.01.23 19:00:50 WARN  no build target for: C:\Projects\TrackOS\src\models\Train.java
+2026.01.23 19:00:49 INFO  no build target found for C:\Projects\TrackOS\src\models\TimeSlot.java. Using fallback presentation compiler.
+2026.01.23 19:00:49 INFO  no build target found for C:\Projects\TrackOS\src\models\Track.java. Using fallback presentation compiler.
+2026.01.23 19:00:49 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 19:00:49 INFO  no build target found for C:\Projects\TrackOS\src\models\Station.java. Using fallback presentation compiler.
+2026.01.23 19:00:49 INFO  no build target found for C:\Projects\TrackOS\src\models\SchedulingResult.java. Using fallback presentation compiler.
+2026.01.23 19:00:50 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:00:50 INFO  no build target found for C:\Projects\TrackOS\src\models\TimeSlot.java. Using fallback presentation compiler.
+2026.01.23 19:00:50 INFO  no build target found for C:\Projects\TrackOS\src\models\Track.java. Using fallback presentation compiler.
+2026.01.23 19:00:50 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 19:00:50 INFO  no build target found for C:\Projects\TrackOS\src\models\Station.java. Using fallback presentation compiler.
+2026.01.23 19:00:50 INFO  no build target found for C:\Projects\TrackOS\src\models\SchedulingResult.java. Using fallback presentation compiler.
+2026.01.23 19:00:50 INFO  no build target found for C:\Projects\TrackOS\src\datastructures\RailNetwork.java. Using fallback presentation compiler.
+2026.01.23 19:00:50 INFO  no build target found for C:\Projects\TrackOS\src\models\TimeSlot.java. Using fallback presentation compiler.
+2026.01.23 19:00:50 INFO  no build target found for C:\Projects\TrackOS\src\models\Track.java. Using fallback presentation compiler.
+2026.01.23 19:00:50 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 19:00:50 INFO  no build target found for C:\Projects\TrackOS\src\models\Station.java. Using fallback presentation compiler.
+2026.01.23 19:00:50 INFO  no build target found for C:\Projects\TrackOS\src\models\SchedulingResult.java. Using fallback presentation compiler.
+2026.01.23 19:00:50 WARN  no build target for: C:\Projects\TrackOS\src\models\Track.java
+2026.01.23 19:00:50 INFO  no build target found for C:\Projects\TrackOS\src\datastructures\RailNetwork.java. Using fallback presentation compiler.
+2026.01.23 19:00:50 INFO  no build target found for C:\Projects\TrackOS\src\models\TimeSlot.java. Using fallback presentation compiler.
+2026.01.23 19:00:50 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 19:00:50 INFO  no build target found for C:\Projects\TrackOS\src\models\SchedulingResult.java. Using fallback presentation compiler.
+2026.01.23 19:00:50 WARN  no build target for: C:\Projects\TrackOS\src\models\Station.java
+2026.01.23 19:00:50 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 19:00:50 INFO  no build target found for C:\Projects\TrackOS\src\models\SchedulingResult.java. Using fallback presentation compiler.
+2026.01.23 19:00:50 INFO  no build target found for C:\Projects\TrackOS\src\datastructures\RailNetwork.java. Using fallback presentation compiler.
+2026.01.23 19:00:50 INFO  no build target found for C:\Projects\TrackOS\src\models\TimeSlot.java. Using fallback presentation compiler.
+2026.01.23 19:00:50 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:00:50 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 19:00:50 INFO  no build target found for C:\Projects\TrackOS\src\models\SchedulingResult.java. Using fallback presentation compiler.
+2026.01.23 19:00:50 INFO  no build target found for C:\Projects\TrackOS\src\datastructures\RailNetwork.java. Using fallback presentation compiler.
+2026.01.23 19:00:50 INFO  no build target found for C:\Projects\TrackOS\src\models\TimeSlot.java. Using fallback presentation compiler.
+2026.01.23 19:00:50 INFO  no build target found for C:\Projects\TrackOS\src\datastructures\IntervalTree.java. Using fallback presentation compiler.
+2026.01.23 19:00:50 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 19:00:50 INFO  no build target found for C:\Projects\TrackOS\src\models\SchedulingResult.java. Using fallback presentation compiler.
+2026.01.23 19:00:50 INFO  no build target found for C:\Projects\TrackOS\src\datastructures\RailNetwork.java. Using fallback presentation compiler.
+2026.01.23 19:00:50 WARN  no build target for: C:\Projects\TrackOS\src\models\TimeSlot.java
+2026.01.23 19:00:50 INFO  no build target found for C:\Projects\TrackOS\src\datastructures\IntervalTree.java. Using fallback presentation compiler.
+2026.01.23 19:00:50 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 19:00:50 INFO  no build target found for C:\Projects\TrackOS\src\models\SchedulingResult.java. Using fallback presentation compiler.
+2026.01.23 19:00:50 INFO  no build target found for C:\Projects\TrackOS\src\datastructures\RailNetwork.java. Using fallback presentation compiler.
+2026.01.23 19:00:50 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:00:50 INFO  no build target found for C:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 19:00:50 INFO  no build target found for C:\Projects\TrackOS\src\datastructures\RailNetwork.java. Using fallback presentation compiler.
+2026.01.23 19:00:50 INFO  no build target found for C:\Projects\TrackOS\src\datastructures\IntervalTree.java. Using fallback presentation compiler.
+2026.01.23 19:00:50 INFO  no build target found for C:\Projects\TrackOS\src\datastructures\SampleNetwork.java. Using fallback presentation compiler.
+2026.01.23 19:00:50 INFO  no build target found for C:\Projects\TrackOS\src\datastructures\RailNetwork.java. Using fallback presentation compiler.
+2026.01.23 19:00:50 INFO  no build target found for C:\Projects\TrackOS\src\datastructures\IntervalTree.java. Using fallback presentation compiler.
+2026.01.23 19:00:50 WARN  no build target for: C:\Projects\TrackOS\src\models\SchedulingResult.java
+2026.01.23 19:00:50 INFO  no build target found for C:\Projects\TrackOS\src\datastructures\SampleNetwork.java. Using fallback presentation compiler.
+2026.01.23 19:00:50 INFO  no build target found for C:\Projects\TrackOS\src\datastructures\RailNetwork.java. Using fallback presentation compiler.
+2026.01.23 19:00:50 INFO  no build target found for C:\Projects\TrackOS\src\datastructures\IntervalTree.java. Using fallback presentation compiler.
+2026.01.23 19:00:50 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:00:50 INFO  no build target found for C:\Projects\TrackOS\src\datastructures\SampleNetwork.java. Using fallback presentation compiler.
+2026.01.23 19:00:50 INFO  no build target found for C:\Projects\TrackOS\src\datastructures\RailNetwork.java. Using fallback presentation compiler.
+2026.01.23 19:00:50 INFO  no build target found for C:\Projects\TrackOS\src\datastructures\IntervalTree.java. Using fallback presentation compiler.
+2026.01.23 19:00:50 WARN  no build target for: C:\Projects\TrackOS\src\Main.java
+2026.01.23 19:00:50 INFO  no build target found for C:\Projects\TrackOS\src\demo\TestData.java. Using fallback presentation compiler.
+2026.01.23 19:00:50 INFO  no build target found for C:\Projects\TrackOS\src\datastructures\SampleNetwork.java. Using fallback presentation compiler.
+2026.01.23 19:00:50 INFO  no build target found for C:\Projects\TrackOS\src\datastructures\RailNetwork.java. Using fallback presentation compiler.
+2026.01.23 19:00:50 INFO  no build target found for C:\Projects\TrackOS\src\datastructures\IntervalTree.java. Using fallback presentation compiler.
+2026.01.23 19:00:50 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:00:51 INFO  no build target found for C:\Projects\TrackOS\src\datastructures\SampleNetwork.java. Using fallback presentation compiler.
+2026.01.23 19:00:51 INFO  no build target found for C:\Projects\TrackOS\src\datastructures\RailNetwork.java. Using fallback presentation compiler.
+2026.01.23 19:00:51 INFO  no build target found for C:\Projects\TrackOS\src\datastructures\IntervalTree.java. Using fallback presentation compiler.
+2026.01.23 19:00:51 INFO  no build target found for C:\Projects\TrackOS\src\demo\TestData.java. Using fallback presentation compiler.
+2026.01.23 19:00:51 INFO  no build target found for C:\Projects\TrackOS\src\services\SchedulingEngine.java. Using fallback presentation compiler.
+2026.01.23 19:00:51 INFO  no build target found for C:\Projects\TrackOS\src\demo\TestData.java. Using fallback presentation compiler.
+2026.01.23 19:00:51 INFO  no build target found for C:\Projects\TrackOS\src\datastructures\SampleNetwork.java. Using fallback presentation compiler.
+2026.01.23 19:00:51 INFO  no build target found for C:\Projects\TrackOS\src\datastructures\RailNetwork.java. Using fallback presentation compiler.
+2026.01.23 19:00:51 INFO  no build target found for C:\Projects\TrackOS\src\datastructures\IntervalTree.java. Using fallback presentation compiler.
+2026.01.23 19:00:51 INFO  no build target found for C:\Projects\TrackOS\src\services\ConflictDetector.java. Using fallback presentation compiler.
+2026.01.23 19:00:51 INFO  no build target found for C:\Projects\TrackOS\src\datastructures\SampleNetwork.java. Using fallback presentation compiler.
+2026.01.23 19:00:51 INFO  no build target found for C:\Projects\TrackOS\src\datastructures\RailNetwork.java. Using fallback presentation compiler.
+2026.01.23 19:00:51 INFO  no build target found for C:\Projects\TrackOS\src\datastructures\IntervalTree.java. Using fallback presentation compiler.
+2026.01.23 19:00:51 INFO  no build target found for C:\Projects\TrackOS\src\services\SchedulingEngine.java. Using fallback presentation compiler.
+2026.01.23 19:00:51 INFO  no build target found for C:\Projects\TrackOS\src\demo\TestData.java. Using fallback presentation compiler.
+2026.01.23 19:00:51 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:00:51 INFO  no build target found for C:\Projects\TrackOS\src\datastructures\SampleNetwork.java. Using fallback presentation compiler.
+2026.01.23 19:00:51 INFO  no build target found for C:\Projects\TrackOS\src\datastructures\RailNetwork.java. Using fallback presentation compiler.
+2026.01.23 19:00:51 INFO  no build target found for C:\Projects\TrackOS\src\datastructures\IntervalTree.java. Using fallback presentation compiler.
+2026.01.23 19:00:51 INFO  no build target found for C:\Projects\TrackOS\src\services\ConflictDetector.java. Using fallback presentation compiler.
+2026.01.23 19:00:51 INFO  no build target found for C:\Projects\TrackOS\src\services\SchedulingEngine.java. Using fallback presentation compiler.
+2026.01.23 19:00:51 INFO  no build target found for C:\Projects\TrackOS\src\demo\TestData.java. Using fallback presentation compiler.
+2026.01.23 19:00:52 WARN  no build target for: C:\Projects\TrackOS\src\demo\TestData.java
+2026.01.23 19:00:51 INFO  no build target found for C:\Projects\TrackOS\src\datastructures\IntervalTree.java. Using fallback presentation compiler.
+2026.01.23 19:00:51 INFO  no build target found for C:\Projects\TrackOS\src\services\ConflictDetector.java. Using fallback presentation compiler.
+2026.01.23 19:00:51 INFO  no build target found for C:\Projects\TrackOS\src\services\SchedulingEngine.java. Using fallback presentation compiler.
+2026.01.23 19:00:51 INFO  no build target found for C:\Projects\TrackOS\src\datastructures\RailNetwork.java. Using fallback presentation compiler.
+2026.01.23 19:00:52 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:00:52 WARN  no build target for: C:\Projects\TrackOS\src\datastructures\SampleNetwork.java
+2026.01.23 19:00:51 INFO  no build target found for C:\Projects\TrackOS\src\datastructures\RailNetwork.java. Using fallback presentation compiler.
+2026.01.23 19:00:51 INFO  no build target found for C:\Projects\TrackOS\src\datastructures\IntervalTree.java. Using fallback presentation compiler.
+2026.01.23 19:00:51 INFO  no build target found for C:\Projects\TrackOS\src\services\ConflictDetector.java. Using fallback presentation compiler.
+2026.01.23 19:00:51 INFO  no build target found for C:\Projects\TrackOS\src\services\SchedulingEngine.java. Using fallback presentation compiler.
+2026.01.23 19:00:52 WARN  no build target for: C:\Projects\TrackOS\src\datastructures\RailNetwork.java
+2026.01.23 19:00:51 INFO  no build target found for C:\Projects\TrackOS\src\datastructures\IntervalTree.java. Using fallback presentation compiler.
+2026.01.23 19:00:51 INFO  no build target found for C:\Projects\TrackOS\src\services\ConflictDetector.java. Using fallback presentation compiler.
+2026.01.23 19:00:51 INFO  no build target found for C:\Projects\TrackOS\src\services\SchedulingEngine.java. Using fallback presentation compiler.
+2026.01.23 19:00:52 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:00:51 INFO  no build target found for C:\Projects\TrackOS\src\services\ConflictDetector.java. Using fallback presentation compiler.
+2026.01.23 19:00:51 INFO  no build target found for C:\Projects\TrackOS\src\services\SchedulingEngine.java. Using fallback presentation compiler.
+2026.01.23 19:00:51 INFO  no build target found for C:\Projects\TrackOS\src\datastructures\IntervalTree.java. Using fallback presentation compiler.
+2026.01.23 19:00:52 WARN  no build target for: C:\Projects\TrackOS\src\services\ConflictDetector.java
+2026.01.23 19:00:51 INFO  no build target found for C:\Projects\TrackOS\src\services\SchedulingEngine.java. Using fallback presentation compiler.
+2026.01.23 19:00:51 INFO  no build target found for C:\Projects\TrackOS\src\datastructures\IntervalTree.java. Using fallback presentation compiler.
+2026.01.23 19:00:52 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:00:51 INFO  no build target found for C:\Projects\TrackOS\src\services\SchedulingEngine.java. Using fallback presentation compiler.
+2026.01.23 19:00:51 INFO  no build target found for C:\Projects\TrackOS\src\datastructures\IntervalTree.java. Using fallback presentation compiler.
+2026.01.23 19:00:52 WARN  no build target for: C:\Projects\TrackOS\src\datastructures\IntervalTree.java
+2026.01.23 19:00:52 INFO  no build target found for C:\Projects\TrackOS\src\services\SchedulingEngine.java. Using fallback presentation compiler.
+2026.01.23 19:00:52 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:00:52 INFO  no build target found for C:\Projects\TrackOS\src\services\SchedulingEngine.java. Using fallback presentation compiler.
+2026.01.23 19:00:52 WARN  no build target for: C:\Projects\TrackOS\src\services\SchedulingEngine.java
+2026.01.23 19:00:52 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:00:53 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:00:56 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:01:00 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:01:54 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\TrackOsApplication.java. Using fallback presentation compiler.
+2026.01.23 19:02:02 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:02:02 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:02:03 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:02:03 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:02:03 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:02:03 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:02:04 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:02:03 INFO  no build target found for C:\Projects\TrackOS\src\services\SlotAllocator.java. Using fallback presentation compiler.
+2026.01.23 19:02:03 INFO  no build target found for C:\Projects\TrackOS\src\util\Printer.java. Using fallback presentation compiler.
+2026.01.23 19:02:03 INFO  no build target found for C:\Projects\TrackOS\src\observability\MetricsCollector.java. Using fallback presentation compiler.
+2026.01.23 19:02:03 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:02:04 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:02:03 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:02:08 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:02:14 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:02:14 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:02:14 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:02:14 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:02:14 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:02:14 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:02:15 WARN  no build target for: C:\Projects\TrackOS\src\services\DelayHandler.java
+2026.01.23 19:02:15 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:02:15 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/services/DelayHandler.java. Output:
+
+2026.01.23 19:02:15 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:02:15 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:02:15 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:02:15 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:02:15 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:02:17 WARN  no build target for: C:\Projects\TrackOS\src\services\DelayHandler.java
+2026.01.23 19:02:17 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:02:17 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/services/DelayHandler.java. Output:
+
+2026.01.23 19:02:19 INFO  no build target found for C:\Projects\TrackOS\src\events\EventBus.java. Using fallback presentation compiler.
+2026.01.23 19:02:19 INFO  no build target found for C:\Projects\TrackOS\src\events\TrainEvent.java. Using fallback presentation compiler.
+2026.01.23 19:02:43 INFO  no build target found for C:\Projects\TrackOS\src\services\Rescheduler.java. Using fallback presentation compiler.
+2026.01.23 19:02:43 INFO  no build target found for C:\Projects\TrackOS\src\services\PriorityResolver.java. Using fallback presentation compiler.
+2026.01.23 19:02:43 INFO  no build target found for C:\Projects\TrackOS\src\services\PathValidator.java. Using fallback presentation compiler.
+2026.01.23 19:02:57 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:02:57 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/services/PathValidator.java. Output:
+
+2026.01.23 19:02:57 INFO  no build target found for C:\Projects\TrackOS\src\services\PathValidator.java. Using fallback presentation compiler.
+2026.01.23 19:02:57 INFO  no build target found for C:\Projects\TrackOS\src\services\PathValidator.java. Using fallback presentation compiler.
+2026.01.23 19:02:57 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/services/PriorityResolver.java. Output:
+
+2026.01.23 19:02:57 INFO  no build target found for C:\Projects\TrackOS\src\services\PriorityResolver.java. Using fallback presentation compiler.
+2026.01.23 19:02:57 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/services/Rescheduler.java. Output:
+
+2026.01.23 19:02:57 INFO  no build target found for C:\Projects\TrackOS\src\services\Rescheduler.java. Using fallback presentation compiler.
+2026.01.23 19:02:57 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/services/SlotAllocator.java. Output:
+
+2026.01.23 19:02:57 INFO  no build target found for C:\Projects\TrackOS\src\services\SlotAllocator.java. Using fallback presentation compiler.
+2026.01.23 19:02:57 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/events/TrainEvent.java. Output:
+
+2026.01.23 19:02:57 INFO  no build target found for C:\Projects\TrackOS\src\events\TrainEvent.java. Using fallback presentation compiler.
+2026.01.23 19:02:57 INFO  no build target found for C:\Projects\TrackOS\src\events\TrainEvent.java. Using fallback presentation compiler.
+2026.01.23 19:03:06 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:03:06 INFO  no build target found for C:\Projects\TrackOS\src\services\PathValidator.java. Using fallback presentation compiler.
+2026.01.23 19:03:06 INFO  no build target found for C:\Projects\TrackOS\src\services\PathValidator.java. Using fallback presentation compiler.
+2026.01.23 19:03:06 INFO  no build target found for C:\Projects\TrackOS\src\services\PriorityResolver.java. Using fallback presentation compiler.
+2026.01.23 19:03:06 INFO  no build target found for C:\Projects\TrackOS\src\services\Rescheduler.java. Using fallback presentation compiler.
+2026.01.23 19:03:07 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:03:06 INFO  no build target found for C:\Projects\TrackOS\src\services\SlotAllocator.java. Using fallback presentation compiler.
+2026.01.23 19:03:06 INFO  no build target found for C:\Projects\TrackOS\src\services\PathValidator.java. Using fallback presentation compiler.
+2026.01.23 19:03:07 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:03:07 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/events/TrainEvent.java. Output:
+
+2026.01.23 19:03:06 INFO  no build target found for C:\Projects\TrackOS\src\events\TrainEvent.java. Using fallback presentation compiler.
+2026.01.23 19:03:07 INFO  no build target found for C:\Projects\TrackOS\src\services\PriorityResolver.java. Using fallback presentation compiler.
+2026.01.23 19:03:07 INFO  no build target found for C:\Projects\TrackOS\src\services\PathValidator.java. Using fallback presentation compiler.
+2026.01.23 19:03:07 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:03:07 INFO  no build target found for C:\Projects\TrackOS\src\events\TrainEvent.java. Using fallback presentation compiler.
+2026.01.23 19:03:07 INFO  no build target found for C:\Projects\TrackOS\src\services\Rescheduler.java. Using fallback presentation compiler.
+2026.01.23 19:03:07 INFO  no build target found for C:\Projects\TrackOS\src\services\PriorityResolver.java. Using fallback presentation compiler.
+2026.01.23 19:03:07 INFO  no build target found for C:\Projects\TrackOS\src\services\PathValidator.java. Using fallback presentation compiler.
+2026.01.23 19:03:07 INFO  no build target found for C:\Projects\TrackOS\src\services\SlotAllocator.java. Using fallback presentation compiler.
+2026.01.23 19:03:07 INFO  no build target found for C:\Projects\TrackOS\src\services\Rescheduler.java. Using fallback presentation compiler.
+2026.01.23 19:03:08 INFO  no build target found for C:\Projects\TrackOS\src\services\PriorityResolver.java. Using fallback presentation compiler.
+2026.01.23 19:03:08 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/events/TrainEvent.java. Output:
+
+2026.01.23 19:03:08 INFO  no build target found for C:\Projects\TrackOS\src\events\TrainEvent.java. Using fallback presentation compiler.
+2026.01.23 19:03:08 INFO  no build target found for C:\Projects\TrackOS\src\services\SlotAllocator.java. Using fallback presentation compiler.
+2026.01.23 19:03:08 INFO  no build target found for C:\Projects\TrackOS\src\services\Rescheduler.java. Using fallback presentation compiler.
+2026.01.23 19:03:08 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:03:08 INFO  no build target found for C:\Projects\TrackOS\src\events\TrainEvent.java. Using fallback presentation compiler.
+2026.01.23 19:03:08 INFO  no build target found for C:\Projects\TrackOS\src\services\SlotAllocator.java. Using fallback presentation compiler.
+2026.01.23 19:03:08 INFO  no build target found for C:\Projects\TrackOS\src\events\TrainEvent.java. Using fallback presentation compiler.
+2026.01.23 19:03:08 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/events/TrainEvent.java. Output:
+
+2026.01.23 19:03:08 INFO  no build target found for C:\Projects\TrackOS\src\events\TrainEvent.java. Using fallback presentation compiler.
+2026.01.23 19:03:08 INFO  no build target found for C:\Projects\TrackOS\src\services\PathValidator.java. Using fallback presentation compiler.
+2026.01.23 19:03:08 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:03:08 INFO  no build target found for C:\Projects\TrackOS\src\services\PathValidator.java. Using fallback presentation compiler.
+2026.01.23 19:03:08 INFO  no build target found for C:\Projects\TrackOS\src\events\TrainEvent.java. Using fallback presentation compiler.
+2026.01.23 19:03:08 INFO  no build target found for C:\Projects\TrackOS\src\events\TrainEvent.java. Using fallback presentation compiler.
+2026.01.23 19:03:08 INFO  no build target found for C:\Projects\TrackOS\src\services\PriorityResolver.java. Using fallback presentation compiler.
+2026.01.23 19:03:08 INFO  no build target found for C:\Projects\TrackOS\src\services\PathValidator.java. Using fallback presentation compiler.
+2026.01.23 19:03:08 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:03:08 INFO  no build target found for C:\Projects\TrackOS\src\services\Rescheduler.java. Using fallback presentation compiler.
+2026.01.23 19:03:09 INFO  no build target found for C:\Projects\TrackOS\src\services\PriorityResolver.java. Using fallback presentation compiler.
+2026.01.23 19:03:08 INFO  no build target found for C:\Projects\TrackOS\src\services\PathValidator.java. Using fallback presentation compiler.
+2026.01.23 19:03:08 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/events/TrainEvent.java. Output:
+
+2026.01.23 19:03:09 INFO  no build target found for C:\Projects\TrackOS\src\events\TrainEvent.java. Using fallback presentation compiler.
+2026.01.23 19:03:08 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:03:08 INFO  no build target found for C:\Projects\TrackOS\src\services\PriorityResolver.java. Using fallback presentation compiler.
+2026.01.23 19:03:08 INFO  no build target found for C:\Projects\TrackOS\src\services\Rescheduler.java. Using fallback presentation compiler.
+2026.01.23 19:03:09 INFO  no build target found for C:\Projects\TrackOS\src\events\TrainEvent.java. Using fallback presentation compiler.
+2026.01.23 19:03:08 INFO  no build target found for C:\Projects\TrackOS\src\services\SlotAllocator.java. Using fallback presentation compiler.
+2026.01.23 19:03:09 INFO  no build target found for C:\Projects\TrackOS\src\services\PathValidator.java. Using fallback presentation compiler.
+2026.01.23 19:03:09 INFO  no build target found for C:\Projects\TrackOS\src\services\Rescheduler.java. Using fallback presentation compiler.
+2026.01.23 19:03:08 INFO  no build target found for C:\Projects\TrackOS\src\services\SlotAllocator.java. Using fallback presentation compiler.
+2026.01.23 19:03:10 INFO  no build target found for C:\Projects\TrackOS\src\services\SlotAllocator.java. Using fallback presentation compiler.
+2026.01.23 19:03:10 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:03:09 INFO  no build target found for C:\Projects\TrackOS\src\services\PathValidator.java. Using fallback presentation compiler.
+2026.01.23 19:03:10 INFO  no build target found for C:\Projects\TrackOS\src\services\PriorityResolver.java. Using fallback presentation compiler.
+2026.01.23 19:03:09 INFO  no build target found for C:\Projects\TrackOS\src\services\PathValidator.java. Using fallback presentation compiler.
+2026.01.23 19:03:10 INFO  no build target found for C:\Projects\TrackOS\src\services\Rescheduler.java. Using fallback presentation compiler.
+2026.01.23 19:03:10 INFO  no build target found for C:\Projects\TrackOS\src\services\PriorityResolver.java. Using fallback presentation compiler.
+2026.01.23 19:03:10 INFO  no build target found for C:\Projects\TrackOS\src\services\SlotAllocator.java. Using fallback presentation compiler.
+2026.01.23 19:03:10 INFO  no build target found for C:\Projects\TrackOS\src\services\Rescheduler.java. Using fallback presentation compiler.
+2026.01.23 19:03:10 INFO  no build target found for C:\Projects\TrackOS\src\services\SlotAllocator.java. Using fallback presentation compiler.
+2026.01.23 19:03:11 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/events/TrainEvent.java. Output:
+
+2026.01.23 19:03:10 INFO  no build target found for C:\Projects\TrackOS\src\events\TrainEvent.java. Using fallback presentation compiler.
+2026.01.23 19:03:11 INFO  no build target found for C:\Projects\TrackOS\src\events\TrainEvent.java. Using fallback presentation compiler.
+2026.01.23 19:03:49 INFO  no build target found for c:\Projects\TrackOS\src\Main.java. Using fallback presentation compiler.
+2026.01.23 19:03:49 INFO  no build target found for c:\Projects\TrackOS\src\models\Train.java. Using fallback presentation compiler.
+2026.01.23 19:03:49 INFO  no build target found for c:\Projects\TrackOS\src\models\TrainType.java. Using fallback presentation compiler.
+2026.01.23 19:03:49 INFO  no build target found for c:\Projects\TrackOS\src\models\Station.java. Using fallback presentation compiler.
+2026.01.23 19:03:49 INFO  no build target found for c:\Projects\TrackOS\src\models\Track.java. Using fallback presentation compiler.
+2026.01.23 19:03:49 INFO  no build target found for c:\Projects\TrackOS\src\models\TimeSlot.java. Using fallback presentation compiler.
+2026.01.23 19:03:49 INFO  no build target found for c:\Projects\TrackOS\src\models\SchedulingResult.java. Using fallback presentation compiler.
+2026.01.23 19:03:50 INFO  no build target found for c:\Projects\TrackOS\src\datastructures\RailNetwork.java. Using fallback presentation compiler.
+2026.01.23 19:03:50 INFO  no build target found for c:\Projects\TrackOS\src\datastructures\IntervalTree.java. Using fallback presentation compiler.
+2026.01.23 19:03:50 INFO  no build target found for c:\Projects\TrackOS\src\datastructures\SampleNetwork.java. Using fallback presentation compiler.
+2026.01.23 19:03:50 INFO  no build target found for c:\Projects\TrackOS\src\demo\TestData.java. Using fallback presentation compiler.
+2026.01.23 19:03:50 INFO  no build target found for c:\Projects\TrackOS\src\services\SchedulingEngine.java. Using fallback presentation compiler.
+2026.01.23 19:03:51 INFO  no build target found for c:\Projects\TrackOS\src\services\ConflictDetector.java. Using fallback presentation compiler.
+2026.01.23 19:05:50 INFO  no build target found for C:\Projects\TrackOS\src\services\SlotAllocator.java. Using fallback presentation compiler.
+2026.01.23 19:05:50 INFO  no build target found for C:\Projects\TrackOS\src\services\PathValidator.java. Using fallback presentation compiler.
+2026.01.23 19:05:50 INFO  no build target found for C:\Projects\TrackOS\src\services\PriorityResolver.java. Using fallback presentation compiler.
+2026.01.23 19:05:50 INFO  no build target found for C:\Projects\TrackOS\src\services\Rescheduler.java. Using fallback presentation compiler.
+2026.01.23 19:07:03 INFO  no build target found for C:\Projects\TrackOS\src\events\EventBus.java. Using fallback presentation compiler.
+2026.01.23 19:07:03 INFO  no build target found for C:\Projects\TrackOS\src\events\EventBus.java. Using fallback presentation compiler.
+2026.01.23 19:07:03 INFO  no build target found for C:\Projects\TrackOS\src\events\EventBus.java. Using fallback presentation compiler.
+2026.01.23 19:07:05 INFO  no build target found for C:\Projects\TrackOS\src\events\EventBus.java. Using fallback presentation compiler.
+2026.01.23 19:07:10 INFO  no build target found for c:\Projects\TrackOS\src\events\EventBus.java. Using fallback presentation compiler.
+2026.01.23 19:07:10 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:07:11 WARN  no build target for: C:\Projects\TrackOS\src\services\DelayHandler.java
+2026.01.23 19:07:10 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:07:11 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:07:10 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:07:10 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:07:22 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:07:25 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:07:36 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:07:36 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:07:38 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:07:41 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:07:41 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:07:41 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:07:41 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:07:42 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:07:41 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:07:42 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:07:42 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:07:42 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:07:42 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
+2026.01.23 19:07:44 INFO  no build target found for C:\Projects\TrackOS\src\services\DelayHandler.java. Using fallback presentation compiler.
