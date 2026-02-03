@@ -2101,3 +2101,58 @@ WARNING: Unmatched cancel notification for request id 93
 2026.01.23 20:33:31 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Allocation.java. Using fallback presentation compiler.
 2026.01.23 20:33:31 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Allocation.java
 2026.01.23 20:33:31 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Allocation.java. Using fallback presentation compiler.
+2026.01.23 20:40:09 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.01.23 20:40:09 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java
+2026.01.23 20:40:10 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.01.23 20:40:09 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.01.23 20:40:11 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.01.23 20:40:11 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.01.23 20:41:09 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.01.23 20:41:09 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.01.23 20:52:15 INFO  Shutting down server
+2026.01.23 20:52:15 INFO  Memory monitor stopped
+2026.01.23 20:52:15 INFO  shutting down Metals
+2026.01.23 20:52:15 INFO  Exiting server
+2026.01.30 10:59:50 INFO  Started: Metals version 1.6.5 in folders 'C:\Projects\TrackOS' for client Visual Studio Code 1.108.2.
+2026.01.30 10:59:50 INFO  Memory monitor started
+2026.01.30 10:59:52 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.01.30 10:59:52 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.01.30 10:59:56 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java
+2026.01.30 10:59:56 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.01.30 10:59:57 INFO  time: code lens generation in 1.15s
+2026.01.30 10:59:59 INFO  restarted 1 presentation compiler
+2026.01.30 11:02:53 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.01.30 11:02:59 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.01.30 11:03:55 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.01.30 11:03:55 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.01.30 11:03:55 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.01.30 11:03:55 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.01.30 11:03:57 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.01.30 11:03:57 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.01.30 11:03:57 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java
+2026.01.30 11:03:57 WARN  Running javac-semanticdb failed for file:///C:/Projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/Entity/Train.java. Output:
+
+2026.01.30 11:03:57 INFO  Created report: Optional[file:///C:/Projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/Entity/Train.java]
+2026.01.30 11:03:57 INFO  QDox parse error in file:///C:/Projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/Entity/Train.java (full report at: "C:\Projects\TrackOS\.metals\.reports\metals-full\2026-01-30\r_qdox-error_11-03-58-120.md")
+2026.01.30 11:03:58 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.01.30 11:04:00 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.01.30 11:04:00 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.01.30 11:04:00 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.01.30 11:04:02 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.01.30 11:04:33 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.01.30 11:04:34 WARN  no build target for: C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java
+2026.01.30 11:04:34 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.01.30 12:45:19 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.02.02 20:39:22 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.02.02 20:39:22 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.02.02 20:39:22 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.02.02 20:39:23 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+Feb 02, 2026 8:39:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 39
+Feb 02, 2026 8:39:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 40
+2026.02.03 10:19:54 INFO  Started: Metals version 1.6.5 in folders 'C:\Projects\TrackOS' for client Visual Studio Code 1.108.2.
+2026.02.03 10:19:54 INFO  Memory monitor started
+2026.02.03 10:19:58 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.02.03 10:19:58 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
+2026.02.03 10:20:01 INFO  restarted 1 presentation compiler
