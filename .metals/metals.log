@@ -2156,3 +2156,405 @@ WARNING: Unmatched cancel notification for request id 40
 2026.02.03 10:19:58 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
 2026.02.03 10:19:58 INFO  no build target found for C:\Projects\TrackOS\src\main\java\com\TrackOSProject\TrackOS\Entity\Train.java. Using fallback presentation compiler.
 2026.02.03 10:20:01 INFO  restarted 1 presentation compiler
+2026.03.15 21:47:35 INFO  Started: Metals version 1.6.6 in folders '/home/v-guhan-techy/projects/TrackOS' for client Visual Studio Code 1.110.1.
+2026.03.15 21:47:35 INFO  Memory monitor started
+2026.03.15 21:47:39 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.15 21:47:39 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 21:47:40 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:57:46 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:57:46 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:57:46 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:57:47 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:57:47 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:57:47 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:57:48 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:57:48 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:57:48 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:57:48 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+Mar 15, 2026 10:57:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: Range [-1, 334) out of bounds for length 779
+java.lang.StringIndexOutOfBoundsException: Range [-1, 334) out of bounds for length 779
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:55)
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:52)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:213)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:210)
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:98)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckFromToIndex(Preconditions.java:112)
+	at java.base/jdk.internal.util.Preconditions.checkFromToIndex(Preconditions.java:349)
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:4855)
+	at java.base/java.lang.String.substring(String.java:2823)
+	at scala.meta.internal.pc.JavaMetalsGlobal.findIndentifierStartAndEnd(JavaMetalsGlobal.scala:87)
+	at scala.meta.internal.pc.JavaMetalsGlobal.isAtIdentifier(JavaMetalsGlobal.scala:137)
+	at scala.meta.internal.pc.JavaDocumentHighlightProvider.atIdentifier$1(JavaDocumentHighlightProvider.scala:53)
+	at scala.meta.internal.pc.JavaDocumentHighlightProvider.documentHighlight(JavaDocumentHighlightProvider.scala:55)
+	at scala.meta.internal.pc.JavaDocumentHighlightProvider.documentHighlight(JavaDocumentHighlightProvider.scala:25)
+	at scala.meta.internal.pc.JavaPresentationCompiler.documentHighlight(JavaPresentationCompiler.scala:112)
+	at scala.meta.internal.metals.Compilers.$anonfun$documentHighlight$1(Compilers.scala:908)
+	at scala.meta.internal.metals.Compilers.$anonfun$withPCAndAdjustLsp$4(Compilers.scala:1543)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.Compilers.$anonfun$withPCAndAdjustLsp$3(Compilers.scala:1543)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.Compilers.withPCAndAdjustLsp(Compilers.scala:1535)
+	at scala.meta.internal.metals.Compilers.documentHighlight(Compilers.scala:903)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$documentHighlights$1(MetalsLspService.scala:1019)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLspService.documentHighlights(MetalsLspService.scala:1018)
+	at scala.meta.internal.metals.WorkspaceLspService.documentHighlights(WorkspaceLspService.scala:541)
+	at scala.meta.metals.lsp.DelegatingScalaService.documentHighlights(DelegatingScalaService.scala:83)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:265)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:195)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+2026.03.15 22:57:49 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:57:51 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:57:51 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:57:51 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:57:51 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:57:52 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:57:54 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:57:54 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:57:54 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:57:55 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:57:55 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+Mar 15, 2026 10:57:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: Range [-1, 334) out of bounds for length 779
+java.lang.StringIndexOutOfBoundsException: Range [-1, 334) out of bounds for length 779
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:55)
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:52)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:213)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:210)
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:98)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckFromToIndex(Preconditions.java:112)
+	at java.base/jdk.internal.util.Preconditions.checkFromToIndex(Preconditions.java:349)
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:4855)
+	at java.base/java.lang.String.substring(String.java:2823)
+	at scala.meta.internal.pc.JavaMetalsGlobal.findIndentifierStartAndEnd(JavaMetalsGlobal.scala:87)
+	at scala.meta.internal.pc.JavaMetalsGlobal.isAtIdentifier(JavaMetalsGlobal.scala:137)
+	at scala.meta.internal.pc.JavaDocumentHighlightProvider.atIdentifier$1(JavaDocumentHighlightProvider.scala:53)
+	at scala.meta.internal.pc.JavaDocumentHighlightProvider.documentHighlight(JavaDocumentHighlightProvider.scala:55)
+	at scala.meta.internal.pc.JavaDocumentHighlightProvider.documentHighlight(JavaDocumentHighlightProvider.scala:25)
+	at scala.meta.internal.pc.JavaPresentationCompiler.documentHighlight(JavaPresentationCompiler.scala:112)
+	at scala.meta.internal.metals.Compilers.$anonfun$documentHighlight$1(Compilers.scala:908)
+	at scala.meta.internal.metals.Compilers.$anonfun$withPCAndAdjustLsp$4(Compilers.scala:1543)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.Compilers.$anonfun$withPCAndAdjustLsp$3(Compilers.scala:1543)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.Compilers.withPCAndAdjustLsp(Compilers.scala:1535)
+	at scala.meta.internal.metals.Compilers.documentHighlight(Compilers.scala:903)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$documentHighlights$1(MetalsLspService.scala:1019)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLspService.documentHighlights(MetalsLspService.scala:1018)
+	at scala.meta.internal.metals.WorkspaceLspService.documentHighlights(WorkspaceLspService.scala:541)
+	at scala.meta.metals.lsp.DelegatingScalaService.documentHighlights(DelegatingScalaService.scala:83)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:265)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:195)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+2026.03.15 22:57:55 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:57:55 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:57:56 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:57:56 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:57:56 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:57:56 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:57:57 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:57:57 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:57:59 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:57:59 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:58:01 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:58:01 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:58:01 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:58:01 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:58:01 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:58:01 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:58:02 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:58:02 WARN  no build target for: /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java
+2026.03.15 22:58:03 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:58:02 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:58:04 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:58:04 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:58:04 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:58:05 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:58:05 WARN  no build target for: /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java
+2026.03.15 22:58:05 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:58:05 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:58:05 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:58:06 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:58:06 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:58:21 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:58:21 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:58:24 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:58:24 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:58:26 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:58:26 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:58:27 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:58:27 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:58:28 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:58:28 WARN  no build target for: /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java
+2026.03.15 22:58:28 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:58:30 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:58:31 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:58:31 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:58:38 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:58:39 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:58:39 WARN  no build target for: /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java
+2026.03.15 22:58:39 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:58:39 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:58:39 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:59:17 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:59:17 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:59:28 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 22:59:28 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:00:27 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:00:27 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:00:28 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:00:28 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:00:28 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:00:29 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:00:29 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:00:31 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:00:33 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:00:34 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:00:34 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:00:37 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:00:37 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:00:39 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:00:39 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:00:41 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:00:41 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:00:42 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:00:42 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:00:42 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:00:42 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:00:44 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:00:44 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:00:44 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:00:45 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:00:45 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:00:45 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:00:47 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:00:47 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:00:49 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:00:49 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:00:49 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:00:50 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:00:50 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:00:54 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:00:54 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:01:02 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:01:04 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:01:04 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:01:04 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:01:06 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:01:06 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:01:09 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:01:09 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:01:12 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:01:13 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:01:13 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:01:16 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:01:16 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:01:41 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:01:41 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:01:41 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:01:41 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:01:43 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:02:09 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/MemoryMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:02:14 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/LatencyTracker.java. Using fallback presentation compiler.
+2026.03.15 23:02:14 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/LatencyTracker.java. Using fallback presentation compiler.
+2026.03.15 23:02:14 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/LatencyTracker.java. Using fallback presentation compiler.
+2026.03.15 23:02:14 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/LatencyTracker.java. Using fallback presentation compiler.
+2026.03.15 23:02:16 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/LatencyTracker.java. Using fallback presentation compiler.
+2026.03.15 23:02:17 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/LatencyTracker.java. Using fallback presentation compiler.
+2026.03.15 23:02:21 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/LatencyTracker.java. Using fallback presentation compiler.
+2026.03.15 23:02:23 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/LatencyTracker.java. Using fallback presentation compiler.
+2026.03.15 23:02:23 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/LatencyTracker.java. Using fallback presentation compiler.
+2026.03.15 23:09:32 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/LatencyTracker.java. Using fallback presentation compiler.
+2026.03.15 23:09:32 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/LatencyTracker.java. Using fallback presentation compiler.
+2026.03.15 23:09:32 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/LatencyTracker.java. Using fallback presentation compiler.
+2026.03.15 23:09:32 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/LatencyTracker.java. Using fallback presentation compiler.
+2026.03.15 23:09:32 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/LatencyTracker.java. Using fallback presentation compiler.
+2026.03.15 23:09:34 WARN  no build target for: /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/LatencyTracker.java
+2026.03.15 23:09:34 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/LatencyTracker.java. Using fallback presentation compiler.
+2026.03.15 23:10:10 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/LatencyTracker.java. Using fallback presentation compiler.
+2026.03.15 23:10:10 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/LatencyTracker.java. Using fallback presentation compiler.
+2026.03.15 23:10:10 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/LatencyTracker.java. Using fallback presentation compiler.
+2026.03.15 23:10:11 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/LatencyTracker.java. Using fallback presentation compiler.
+2026.03.15 23:10:11 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/LatencyTracker.java. Using fallback presentation compiler.
+2026.03.15 23:10:11 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/LatencyTracker.java. Using fallback presentation compiler.
+2026.03.15 23:10:12 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/LatencyTracker.java. Using fallback presentation compiler.
+2026.03.15 23:10:15 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:15 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:15 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:16 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:19 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:19 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:19 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:24 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:24 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:24 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:24 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:25 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:25 WARN  no build target for: /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java
+2026.03.15 23:10:25 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:25 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:25 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:26 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:26 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:27 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:26 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:28 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:28 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:28 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:28 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:28 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:28 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:28 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:28 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:28 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:29 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:29 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:28 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:29 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:29 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:30 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:30 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:30 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:30 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:30 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:30 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:30 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:30 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:31 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:30 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:31 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:31 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:31 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:31 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:32 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:31 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:32 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:32 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:32 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:32 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:32 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:32 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:32 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:32 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:32 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:34 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:34 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:34 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:34 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:34 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:34 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:34 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:35 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:35 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:35 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:35 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:35 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:35 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:35 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:35 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:35 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:36 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:36 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:36 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:36 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:36 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:37 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:37 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:37 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:37 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:37 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:38 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:38 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:38 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:38 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:38 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:39 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:39 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:39 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:39 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:39 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:39 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:39 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:40 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:40 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:40 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:40 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:40 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:41 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:40 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:41 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:40 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:41 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:41 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:41 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:42 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:41 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:41 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:42 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:42 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:42 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:43 WARN  no build target for: /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java
+2026.03.15 23:10:43 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:42 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:42 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:42 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:44 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:44 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:44 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:45 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:45 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:45 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:45 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:45 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:49 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:49 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:49 WARN  no build target for: /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java
+2026.03.15 23:10:50 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:51 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:51 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:53 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:53 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:10:58 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:11:00 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:11:00 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:11:03 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:11:11 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:11:11 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:11:11 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:11:11 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:11:12 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:11:12 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:11:12 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:11:13 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:11:36 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:13:45 INFO  no build target found for /home/v-guhan-techy/projects/TrackOS/src/main/java/com/TrackOSProject/TrackOS/observability/ThreadMonitor.java. Using fallback presentation compiler.
+2026.03.15 23:13:45 INFO  Shutting down server
+2026.03.15 23:13:45 INFO  Memory monitor stopped
+2026.03.15 23:13:45 INFO  shutting down Metals
+2026.03.15 23:13:45 INFO  Exiting server

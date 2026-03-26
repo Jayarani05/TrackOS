@@ -1,8 +1,8 @@
 package com.TrackOSProject.TrackOS.observability;
 
 import java.lang.management.ManagementFactory;
-import java.lang.management.ThreadMXBean;
 import java.lang.management.ThreadInfo;
+import java.lang.management.ThreadMXBean;
 
 public class ThreadMonitor {
     private ThreadMXBean bean;
@@ -10,7 +10,7 @@ public class ThreadMonitor {
     public ThreadMonitor() {
         this.bean = ManagementFactory.getThreadMXBean();
     }
-
+//cal
     public int getThreadCount() {
         return bean.getThreadCount();
     }
@@ -22,7 +22,6 @@ public class ThreadMonitor {
     public ThreadStats getStats() {
         ThreadStats s = new ThreadStats();
         s.total = bean.getThreadCount();
-
         ThreadInfo[] infos = bean.getThreadInfo(bean.getAllThreadIds());
         for (ThreadInfo i : infos) {
             if (i == null)
